@@ -1,0 +1,1801 @@
+account_id,company_name,segment,industry,region,arr,signup_date
+ACC-00001,"Ashley, Nielsen and Sellers",Mid-Market,Logistics,EMEA,41341.92,2025-07-20
+ACC-00002,"Nguyen, Smith and Hickman",Mid-Market,FinTech,West,69311.17,2025-07-03
+ACC-00003,Allen-Allen,Mid-Market,E-commerce,West,44077.51,2024-06-10
+ACC-00004,"Arroyo, Miller and Tucker",SMB,Legal Tech,EMEA,20953.36,2025-06-03
+ACC-00005,Spence PLC,Enterprise,Legal Tech,EMEA,278780.77,2024-06-05
+ACC-00006,Anderson Group,SMB,Cybersecurity,EMEA,24209.5,2025-06-27
+ACC-00007,"Martin, Rose and Obrien",Enterprise,Data Infrastructure,Northeast,241467.77,2024-04-24
+ACC-00008,Hickman Ltd,Enterprise,Legal Tech,Midwest,107956.8,2025-08-03
+ACC-00009,"Harris, Collins and Carney",Enterprise,HealthTech,South,342967.21,2026-02-17
+ACC-00010,"Brooks, Lam and Hayes",SMB,Cybersecurity,Midwest,19215.76,2025-07-16
+ACC-00011,Walker LLC,SMB,InsurTech,EMEA,15193.34,2024-08-04
+ACC-00012,Chapman and Sons,Enterprise,HR Tech,Northeast,213687.61,2025-11-18
+ACC-00013,"Robinson, Jones and Welch",Mid-Market,Logistics,EMEA,54346.6,2024-09-10
+ACC-00014,Jones Inc,SMB,E-commerce,West,18001.25,2024-08-23
+ACC-00015,Jones-Young,Mid-Market,FinTech,West,71009.66,2024-03-01
+ACC-00016,"Washington, Ryan and Cummings",SMB,FinTech,Northeast,9204.57,2024-08-31
+ACC-00017,"Johnston, Sanchez and Kennedy",SMB,Logistics,Midwest,17166.98,2026-01-10
+ACC-00018,Lee-Davis,Enterprise,Data Infrastructure,EMEA,236528.02,2026-03-14
+ACC-00019,Gomez-Jenkins,SMB,EdTech,Midwest,9603.54,2025-11-05
+ACC-00020,"Brown, Valdez and Lucas",SMB,EdTech,South,15939.42,2026-01-16
+ACC-00021,Powell LLC,SMB,HealthTech,West,14844.56,2024-12-13
+ACC-00022,Wright and Sons,Mid-Market,HealthTech,Midwest,37453.35,2025-07-03
+ACC-00023,"West, Henderson and Ramirez",SMB,EdTech,Midwest,12735.27,2024-09-12
+ACC-00024,Baxter Inc,Enterprise,HealthTech,South,340486.9,2026-05-26
+ACC-00025,Morton-Chase,Mid-Market,FinTech,EMEA,79341.79,2024-04-05
+ACC-00026,Williams PLC,Enterprise,HR Tech,Midwest,215988.36,2025-05-07
+ACC-00027,Novak and Sons,SMB,EdTech,West,10798.83,2024-01-03
+ACC-00028,Russell Group,Enterprise,Legal Tech,South,178427.26,2025-12-14
+ACC-00029,Hancock Inc,Enterprise,InsurTech,South,137987.02,2024-10-30
+ACC-00030,Gray Group,SMB,FinTech,EMEA,20507.53,2024-03-03
+ACC-00031,House-Glover,Mid-Market,FinTech,West,62971.54,2025-05-29
+ACC-00032,Henderson-Bernard,Enterprise,InsurTech,Midwest,107632.67,2025-06-04
+ACC-00033,"Stanley, Tucker and Lee",SMB,Cybersecurity,West,18115.6,2025-11-22
+ACC-00034,Novak PLC,Mid-Market,EdTech,West,86203.75,2025-08-06
+ACC-00035,"Daniels, Adkins and Brown",SMB,Data Infrastructure,West,18529.49,2025-03-05
+ACC-00036,"Woods, Calhoun and Schmidt",Mid-Market,Data Infrastructure,EMEA,45564.04,2024-09-24
+ACC-00037,Yu Inc,SMB,E-commerce,Midwest,12515.45,2024-05-14
+ACC-00038,Jones Inc,Mid-Market,Legal Tech,South,45551.52,2026-02-08
+ACC-00039,"Hensley, Powell and David",Enterprise,FinTech,South,282559.37,2025-07-30
+ACC-00040,"Sanchez, Wheeler and Harvey",Enterprise,HealthTech,EMEA,156077.84,2024-09-28
+ACC-00041,Sandoval-Cunningham,SMB,E-commerce,West,22947.59,2025-01-13
+ACC-00042,Donovan-Harris,SMB,Logistics,EMEA,19960.18,2025-09-18
+ACC-00043,"Edwards, Baker and Anderson",Enterprise,InsurTech,West,297037.59,2025-07-21
+ACC-00044,"Evans, Stewart and Walton",SMB,HealthTech,Midwest,12495.92,2024-04-19
+ACC-00045,Smith PLC,Mid-Market,Cybersecurity,Northeast,43314.16,2024-08-03
+ACC-00046,"Ferrell, Jones and Lewis",Mid-Market,HR Tech,Northeast,57851.59,2024-09-14
+ACC-00047,Anderson-Bailey,Enterprise,FinTech,West,286628.18,2026-04-29
+ACC-00048,Suarez LLC,SMB,FinTech,Northeast,21109.03,2025-10-14
+ACC-00049,Moore-Bass,Enterprise,Cybersecurity,South,261020.93,2025-03-13
+ACC-00050,"Turner, Riggs and Roman",Mid-Market,HealthTech,West,86428.31,2025-12-08
+ACC-00051,"Smith, Montoya and Evans",Enterprise,InsurTech,West,348724.46,2025-08-19
+ACC-00052,"Garcia, Humphrey and Baker",Mid-Market,EdTech,Midwest,27718.88,2025-01-08
+ACC-00053,Newton and Sons,Enterprise,FinTech,Northeast,155123.73,2024-09-12
+ACC-00054,Campbell-Clark,Mid-Market,E-commerce,EMEA,82468.76,2025-02-20
+ACC-00055,Harris-Walters,Enterprise,Cybersecurity,Midwest,358027.77,2026-03-30
+ACC-00056,Wagner-King,Mid-Market,EdTech,West,36658.44,2024-12-06
+ACC-00057,Davis Group,Mid-Market,EdTech,Midwest,42342.37,2026-03-17
+ACC-00058,Williams-Cook,Mid-Market,EdTech,West,80808.56,2024-08-15
+ACC-00059,Walsh LLC,SMB,Logistics,Northeast,13188.24,2026-03-25
+ACC-00060,Figueroa PLC,Enterprise,HR Tech,West,294610.29,2025-02-12
+ACC-00061,"Patterson, Smith and Jones",SMB,HealthTech,Northeast,13969.48,2025-06-05
+ACC-00062,"Mckee, Gardner and Davenport",SMB,InsurTech,Northeast,23967.03,2024-04-28
+ACC-00063,"Tran, Jordan and Williams",Enterprise,Legal Tech,Midwest,269982.82,2024-09-28
+ACC-00064,Nolan-Flynn,SMB,Data Infrastructure,South,13876.68,2026-03-16
+ACC-00065,Nolan and Sons,SMB,Data Infrastructure,EMEA,9965.98,2025-08-13
+ACC-00066,"Wright, Garcia and Deleon",SMB,FinTech,South,8028.75,2026-04-05
+ACC-00067,Dickson-Brady,SMB,HR Tech,Northeast,15332.06,2025-11-11
+ACC-00068,Hancock and Sons,Enterprise,Data Infrastructure,Northeast,295650.12,2024-05-07
+ACC-00069,Johnson-Doyle,Mid-Market,Legal Tech,EMEA,45103.5,2025-02-22
+ACC-00070,Patton-Jenkins,SMB,Legal Tech,EMEA,10163.89,2025-03-06
+ACC-00071,"Shields, Cochran and Adams",Mid-Market,EdTech,Midwest,65008.47,2024-11-04
+ACC-00072,"Rodriguez, Brennan and Garrison",SMB,FinTech,Northeast,12877.53,2025-03-16
+ACC-00073,Gonzalez Group,Mid-Market,Data Infrastructure,Northeast,55224.23,2025-03-28
+ACC-00074,Torres-Pope,Mid-Market,InsurTech,South,76592.8,2026-03-26
+ACC-00075,Walker Ltd,Mid-Market,HealthTech,Northeast,58504.38,2025-10-10
+ACC-00076,Ross LLC,Mid-Market,HealthTech,Midwest,68731.72,2024-08-18
+ACC-00077,Rasmussen LLC,Mid-Market,Cybersecurity,West,28003.89,2025-05-01
+ACC-00078,May-Ross,Mid-Market,HealthTech,South,51938.67,2025-10-06
+ACC-00079,"Rivera, Johnson and Wiley",Mid-Market,EdTech,South,50977.44,2024-05-31
+ACC-00080,White-Estes,Mid-Market,FinTech,West,75597.33,2024-08-12
+ACC-00081,Johnson-Carlson,SMB,InsurTech,South,8853.71,2024-09-12
+ACC-00082,Chandler-Edwards,Enterprise,HealthTech,South,131335.12,2025-04-20
+ACC-00083,"Joyce, Wilson and Lam",Mid-Market,InsurTech,EMEA,45624.37,2026-02-12
+ACC-00084,Scott Ltd,Enterprise,Data Infrastructure,EMEA,222289.63,2025-07-15
+ACC-00085,Smith-Frost,SMB,Cybersecurity,South,15651.19,2026-02-08
+ACC-00086,"Mcdaniel, Bentley and Mclaughlin",SMB,Legal Tech,EMEA,16238.15,2024-09-01
+ACC-00087,Diaz Inc,SMB,HealthTech,Northeast,11986.39,2024-12-09
+ACC-00088,"Mccall, Hanson and Alvarado",SMB,InsurTech,West,10352.36,2024-08-24
+ACC-00089,Cortez LLC,SMB,Cybersecurity,Midwest,9091.89,2025-02-21
+ACC-00090,"Parker, Ortiz and Powell",SMB,Logistics,South,9058.52,2026-05-02
+ACC-00091,Spencer-Lee,SMB,Data Infrastructure,West,22564.44,2026-02-22
+ACC-00092,"Bentley, Byrd and Orr",Mid-Market,Logistics,West,86278.21,2024-11-01
+ACC-00093,"Carroll, Sullivan and Bass",Mid-Market,EdTech,EMEA,73588.52,2025-07-13
+ACC-00094,Mitchell-Jordan,Mid-Market,HR Tech,South,39262.41,2025-03-22
+ACC-00095,"Lawson, Morris and Ramos",SMB,EdTech,Northeast,19370.85,2026-03-28
+ACC-00096,"Lewis, Kennedy and Santana",SMB,Cybersecurity,South,23632.21,2025-09-29
+ACC-00097,"Jackson, Miller and Robertson",SMB,EdTech,EMEA,17594.66,2024-01-28
+ACC-00098,"Harvey, Davis and Crane",SMB,EdTech,Midwest,22736.47,2024-07-05
+ACC-00099,Chambers and Sons,SMB,EdTech,Northeast,11598.22,2024-11-30
+ACC-00100,Hernandez Inc,SMB,EdTech,Northeast,20784.17,2026-05-01
+ACC-00101,Riggs PLC,SMB,HealthTech,South,8329.52,2025-07-06
+ACC-00102,Gibson Ltd,SMB,E-commerce,Midwest,19052.45,2026-03-10
+ACC-00103,"Lee, Horton and Snyder",Enterprise,FinTech,West,384379.64,2024-07-23
+ACC-00104,Hernandez Ltd,Mid-Market,Data Infrastructure,Midwest,40505.42,2025-04-29
+ACC-00105,Stafford Inc,Mid-Market,Data Infrastructure,Midwest,55227.21,2024-09-19
+ACC-00106,Robinson-Brock,Mid-Market,Cybersecurity,EMEA,64471.09,2026-02-04
+ACC-00107,"Holmes, Williams and Wright",Mid-Market,Cybersecurity,Northeast,32026.42,2024-01-27
+ACC-00108,Bryant Group,Enterprise,Data Infrastructure,South,212962.88,2026-01-02
+ACC-00109,"Schmidt, Hansen and Stewart",SMB,Data Infrastructure,Midwest,9732.32,2026-03-02
+ACC-00110,Salazar-Ball,SMB,Data Infrastructure,West,21535.86,2025-08-02
+ACC-00111,"Simmons, Meadows and Griffin",Mid-Market,E-commerce,EMEA,52844.57,2025-01-14
+ACC-00112,Manning Group,SMB,E-commerce,West,22442.79,2026-04-22
+ACC-00113,Green-Wright,SMB,EdTech,Northeast,18804.95,2026-04-28
+ACC-00114,"Ramirez, Strickland and Washington",SMB,Cybersecurity,South,10994.33,2025-06-18
+ACC-00115,Hill Inc,Enterprise,Legal Tech,EMEA,340541.76,2025-07-05
+ACC-00116,"Mitchell, Nelson and Flores",Mid-Market,Logistics,South,78672.75,2025-08-29
+ACC-00117,"Miller, Hernandez and Reyes",SMB,HR Tech,West,12741.78,2025-04-06
+ACC-00118,Mccarthy Inc,SMB,Logistics,EMEA,18375.64,2025-01-23
+ACC-00119,Russell-Daniels,SMB,Logistics,Northeast,11091.28,2024-08-05
+ACC-00120,Brown-Wall,SMB,Legal Tech,Northeast,12754.19,2025-09-02
+ACC-00121,Stein-Silva,Mid-Market,Legal Tech,EMEA,25659.82,2024-07-14
+ACC-00122,"Smith, Gilmore and Johnston",SMB,EdTech,South,17438.0,2024-09-03
+ACC-00123,Smith-Bell,Mid-Market,Logistics,South,76540.64,2024-04-05
+ACC-00124,Castaneda-Ashley,SMB,EdTech,Midwest,13205.5,2025-08-18
+ACC-00125,Medina-Navarro,SMB,InsurTech,EMEA,13843.88,2026-02-02
+ACC-00126,"Hurst, Freeman and Nelson",Mid-Market,E-commerce,South,42609.57,2024-09-14
+ACC-00127,Johnson-Rogers,SMB,HR Tech,Northeast,10032.43,2025-07-02
+ACC-00128,"Yates, Ramsey and Pittman",Enterprise,Cybersecurity,Midwest,157079.24,2025-05-10
+ACC-00129,Hooper PLC,SMB,Data Infrastructure,EMEA,18145.44,2024-04-12
+ACC-00130,Meadows PLC,Mid-Market,Legal Tech,Midwest,48457.27,2024-11-05
+ACC-00131,"Alvarado, Miller and Patterson",SMB,InsurTech,Midwest,12663.29,2024-02-25
+ACC-00132,White-Green,Mid-Market,Cybersecurity,South,31668.2,2024-01-13
+ACC-00133,Lewis-Murphy,Mid-Market,Logistics,South,53630.47,2024-07-07
+ACC-00134,Ramirez-Bean,Enterprise,Legal Tech,South,125367.01,2024-03-07
+ACC-00135,King-Miller,SMB,HealthTech,EMEA,18700.58,2024-02-24
+ACC-00136,Curry Inc,SMB,Data Infrastructure,Northeast,9448.08,2024-09-11
+ACC-00137,Walker-Jones,SMB,EdTech,EMEA,18134.16,2025-09-25
+ACC-00138,"Williams, Johnson and Wright",SMB,InsurTech,South,15658.75,2025-03-29
+ACC-00139,Howell and Sons,SMB,Data Infrastructure,South,13191.46,2025-09-27
+ACC-00140,Wells Inc,SMB,HealthTech,Midwest,18633.76,2024-09-27
+ACC-00141,"Gould, Marshall and Scott",Mid-Market,Cybersecurity,Midwest,36297.88,2024-03-17
+ACC-00142,Jackson-Lawson,SMB,EdTech,South,19719.31,2025-04-26
+ACC-00143,"Higgins, Strickland and Martin",SMB,HR Tech,Northeast,20018.25,2025-12-20
+ACC-00144,Rodriguez-Johnson,Mid-Market,HealthTech,Midwest,85054.22,2026-03-17
+ACC-00145,Johnston-Odonnell,Mid-Market,Data Infrastructure,Midwest,52634.03,2025-07-11
+ACC-00146,Sanders-Espinoza,SMB,Cybersecurity,Northeast,22052.73,2024-03-14
+ACC-00147,Vargas Ltd,SMB,Legal Tech,EMEA,20732.28,2025-08-05
+ACC-00148,Garcia LLC,Enterprise,Logistics,West,235296.37,2024-11-07
+ACC-00149,"Burke, Martinez and Riggs",Mid-Market,Legal Tech,EMEA,60098.8,2025-03-24
+ACC-00150,Reed Group,SMB,FinTech,South,20487.08,2025-09-10
+ACC-00151,"Wood, Hunter and Peterson",SMB,HealthTech,Midwest,24352.49,2026-05-06
+ACC-00152,Short-Garcia,Mid-Market,Data Infrastructure,West,89972.21,2025-11-19
+ACC-00153,Reid-Poole,Mid-Market,Data Infrastructure,West,74602.09,2024-06-28
+ACC-00154,"Hernandez, Thompson and Boyd",SMB,Logistics,Northeast,11085.32,2025-08-22
+ACC-00155,"Nelson, Morton and Medina",SMB,Logistics,West,15990.18,2025-02-22
+ACC-00156,Marshall-Petersen,SMB,HealthTech,Midwest,13606.66,2025-12-11
+ACC-00157,"Adams, Christian and Rivas",SMB,EdTech,EMEA,8623.85,2024-03-31
+ACC-00158,Ramirez Group,SMB,E-commerce,West,24493.14,2025-02-17
+ACC-00159,Christensen PLC,Mid-Market,FinTech,EMEA,55028.46,2024-02-25
+ACC-00160,"Barnett, Rogers and Snyder",SMB,E-commerce,EMEA,20859.53,2025-10-02
+ACC-00161,White-Lewis,SMB,FinTech,Midwest,12539.96,2024-05-14
+ACC-00162,Peterson-Beard,Enterprise,Logistics,South,127642.09,2025-10-07
+ACC-00163,"Beard, Peters and Black",Mid-Market,HR Tech,Midwest,45198.76,2024-01-15
+ACC-00164,Miller Ltd,Mid-Market,HealthTech,Midwest,89496.71,2024-04-26
+ACC-00165,Freeman-Chang,SMB,HealthTech,Midwest,16472.38,2026-01-03
+ACC-00166,"Alvarez, Joseph and West",SMB,Legal Tech,South,22190.31,2025-04-28
+ACC-00167,Davis and Sons,SMB,InsurTech,Midwest,14520.96,2025-09-05
+ACC-00168,Holt-Torres,SMB,Cybersecurity,West,12696.21,2026-03-19
+ACC-00169,"Wood, Tran and Cooper",Mid-Market,E-commerce,EMEA,42366.22,2024-01-03
+ACC-00170,"Pierce, Bell and Chavez",SMB,Legal Tech,EMEA,17858.7,2025-11-06
+ACC-00171,King-Martinez,SMB,Cybersecurity,South,17155.87,2024-12-19
+ACC-00172,Stewart Ltd,SMB,InsurTech,South,15740.86,2024-11-25
+ACC-00173,"Tapia, Vaughn and Lee",Mid-Market,HR Tech,EMEA,49893.11,2026-05-26
+ACC-00174,"Washington, Hardy and Bray",Mid-Market,FinTech,Northeast,73405.83,2025-12-23
+ACC-00175,"Carlson, Hooper and Wall",Enterprise,EdTech,South,396408.34,2026-03-22
+ACC-00176,Perez-White,Mid-Market,Cybersecurity,South,87713.59,2024-05-09
+ACC-00177,Erickson and Sons,SMB,Data Infrastructure,Northeast,22784.91,2026-05-15
+ACC-00178,Williams-Brown,SMB,InsurTech,South,8260.91,2024-05-27
+ACC-00179,Terry-Martinez,SMB,Cybersecurity,West,15981.34,2024-09-28
+ACC-00180,Garcia-Smith,SMB,EdTech,West,22480.01,2026-05-22
+ACC-00181,Harrison-Alexander,Mid-Market,InsurTech,South,87019.07,2025-10-03
+ACC-00182,Sheppard LLC,Mid-Market,Logistics,EMEA,27333.44,2024-03-11
+ACC-00183,Wilson-Jones,SMB,Legal Tech,Midwest,20695.03,2025-03-20
+ACC-00184,Jones-Soto,Enterprise,HealthTech,South,141573.08,2024-11-02
+ACC-00185,Hernandez PLC,Enterprise,FinTech,Northeast,336804.47,2024-10-27
+ACC-00186,Miller-Wright,SMB,EdTech,Midwest,12151.36,2025-02-25
+ACC-00187,"Duran, Obrien and Gibbs",Mid-Market,Cybersecurity,Midwest,36379.51,2025-09-16
+ACC-00188,Rowe Group,Enterprise,Data Infrastructure,Midwest,244276.85,2025-08-20
+ACC-00189,Kerr-Evans,SMB,Logistics,Northeast,15812.7,2025-11-13
+ACC-00190,"Branch, Torres and Oliver",SMB,Logistics,Northeast,19519.39,2024-06-10
+ACC-00191,"Choi, Garcia and Farmer",SMB,E-commerce,EMEA,13085.62,2025-03-10
+ACC-00192,"Clark, Guerrero and Moore",Mid-Market,Logistics,Northeast,37949.1,2025-01-28
+ACC-00193,Arnold and Sons,Mid-Market,HealthTech,Midwest,49788.68,2025-01-02
+ACC-00194,Ortiz Ltd,Mid-Market,Legal Tech,West,88566.39,2025-11-05
+ACC-00195,"Harrison, Johnson and Roberts",SMB,FinTech,EMEA,22706.15,2026-03-07
+ACC-00196,Warner-Gibson,Mid-Market,FinTech,EMEA,73436.19,2026-05-02
+ACC-00197,"Hall, Baker and Moody",Enterprise,Legal Tech,Midwest,278190.15,2024-12-26
+ACC-00198,"Guerrero, Peck and Coleman",SMB,HR Tech,EMEA,12260.66,2026-02-12
+ACC-00199,"Walker, Hernandez and Baker",Mid-Market,Cybersecurity,West,83721.24,2025-10-23
+ACC-00200,Jones and Sons,SMB,Logistics,West,17852.75,2026-01-19
+ACC-00201,Larson-Holloway,SMB,Legal Tech,Northeast,20707.17,2024-06-28
+ACC-00202,Gonzales-Harrison,SMB,InsurTech,Northeast,17024.49,2024-10-06
+ACC-00203,Lyons-Bender,Mid-Market,Legal Tech,South,87879.96,2024-10-29
+ACC-00204,"Fernandez, Kim and George",Mid-Market,E-commerce,West,55441.54,2024-03-18
+ACC-00205,Navarro-Munoz,SMB,HR Tech,South,24443.59,2026-04-03
+ACC-00206,Davis Ltd,Mid-Market,HealthTech,South,25904.71,2025-07-03
+ACC-00207,"Matthews, Smith and Hubbard",SMB,E-commerce,Northeast,17937.52,2026-04-22
+ACC-00208,Johnston-Hines,Mid-Market,E-commerce,West,68864.38,2025-04-27
+ACC-00209,Ruiz Ltd,SMB,InsurTech,Northeast,23559.35,2024-08-14
+ACC-00210,Moon-White,Mid-Market,Logistics,Northeast,67200.56,2024-04-29
+ACC-00211,"Graham, Olsen and Costa",SMB,FinTech,Northeast,24930.77,2024-04-28
+ACC-00212,Bailey-Cook,SMB,InsurTech,Midwest,14606.98,2025-01-14
+ACC-00213,"Garcia, Martin and Jenkins",Mid-Market,InsurTech,South,63177.12,2026-01-14
+ACC-00214,Roberts-Landry,SMB,EdTech,West,22172.78,2025-09-22
+ACC-00215,"Johnson, Miller and King",SMB,Legal Tech,West,19734.77,2024-08-10
+ACC-00216,Cordova Group,SMB,HR Tech,Northeast,9689.03,2025-12-03
+ACC-00217,"Bryan, Smith and Booth",SMB,E-commerce,West,14768.37,2024-07-13
+ACC-00218,Gutierrez-Lopez,Enterprise,Logistics,West,295458.31,2025-10-19
+ACC-00219,Dean-Jimenez,Mid-Market,FinTech,West,76141.65,2024-09-06
+ACC-00220,Wolf-Harris,Enterprise,Data Infrastructure,Midwest,111269.15,2026-02-22
+ACC-00221,"Anderson, Roberts and Gilmore",Mid-Market,Data Infrastructure,Midwest,77848.44,2024-08-26
+ACC-00222,Martinez-Dudley,SMB,Cybersecurity,EMEA,8048.2,2026-05-29
+ACC-00223,"Lloyd, Mckinney and Collins",Enterprise,Cybersecurity,EMEA,167702.8,2024-06-27
+ACC-00224,Tran Inc,SMB,FinTech,Midwest,8252.63,2026-03-19
+ACC-00225,Gay Inc,Mid-Market,Data Infrastructure,Northeast,26025.77,2024-09-28
+ACC-00226,Valentine-Holland,SMB,EdTech,EMEA,9932.04,2024-03-06
+ACC-00227,Jimenez Ltd,SMB,E-commerce,EMEA,18092.32,2025-04-07
+ACC-00228,Hicks-Hill,SMB,Data Infrastructure,West,20363.13,2025-11-05
+ACC-00229,Baird-Sanchez,SMB,Logistics,West,9034.03,2025-05-05
+ACC-00230,"Thomas, Lee and Greene",Mid-Market,EdTech,West,56867.48,2025-03-30
+ACC-00231,"Suarez, Shields and Hill",SMB,HealthTech,Northeast,18341.06,2024-03-08
+ACC-00232,Morgan-French,SMB,Data Infrastructure,EMEA,17322.06,2024-11-28
+ACC-00233,Hoover-Campbell,SMB,Data Infrastructure,EMEA,13013.26,2025-06-01
+ACC-00234,Monroe-Carpenter,Mid-Market,HealthTech,West,80431.53,2025-10-28
+ACC-00235,"Burns, Hernandez and Ryan",Enterprise,InsurTech,Midwest,223321.68,2024-08-21
+ACC-00236,Cook-Hines,SMB,Logistics,South,15071.82,2024-04-07
+ACC-00237,Gibson-Morris,SMB,E-commerce,Northeast,14363.12,2024-06-05
+ACC-00238,Pollard and Sons,Mid-Market,Logistics,West,30929.61,2024-03-28
+ACC-00239,"Reyes, Chase and Jenkins",SMB,HealthTech,Northeast,21800.08,2025-07-23
+ACC-00240,Garner-Thornton,SMB,InsurTech,EMEA,13603.98,2024-05-05
+ACC-00241,Hughes-Alvarado,SMB,EdTech,West,24462.78,2025-09-06
+ACC-00242,"Pollard, Simpson and Johnson",SMB,HealthTech,EMEA,16626.01,2024-06-07
+ACC-00243,"Sanford, Rivera and Garcia",Mid-Market,HR Tech,West,47757.41,2025-07-23
+ACC-00244,Garcia-Lozano,SMB,Legal Tech,EMEA,11844.7,2025-03-15
+ACC-00245,Bowen Group,Mid-Market,Data Infrastructure,EMEA,68873.49,2025-07-24
+ACC-00246,"Booker, Jones and Harrington",SMB,Legal Tech,West,11067.07,2025-12-20
+ACC-00247,Morgan-Schwartz,Mid-Market,E-commerce,Northeast,25396.88,2024-05-26
+ACC-00248,"Miller, Murphy and Craig",Mid-Market,EdTech,West,34221.85,2025-10-10
+ACC-00249,"James, Stewart and Higgins",Enterprise,HealthTech,EMEA,156691.19,2025-03-05
+ACC-00250,Brennan-Johnson,SMB,Cybersecurity,Northeast,13297.84,2024-11-28
+ACC-00251,Young Ltd,Mid-Market,Data Infrastructure,EMEA,30522.21,2024-02-23
+ACC-00252,Bright-Francis,SMB,Data Infrastructure,West,19457.47,2024-10-05
+ACC-00253,Good-Hodges,SMB,EdTech,South,18320.29,2025-02-28
+ACC-00254,"Brennan, Wallace and Benson",SMB,InsurTech,West,13867.94,2024-04-23
+ACC-00255,Williams Inc,SMB,Data Infrastructure,South,16957.88,2024-11-11
+ACC-00256,Howard-Jordan,SMB,EdTech,EMEA,8931.29,2024-07-28
+ACC-00257,Schmidt PLC,SMB,HR Tech,Midwest,20990.74,2024-10-23
+ACC-00258,"Sparks, Jackson and Miller",SMB,FinTech,South,20699.24,2024-06-28
+ACC-00259,Harvey-Allen,SMB,InsurTech,Midwest,16504.46,2026-05-03
+ACC-00260,"Thomas, Murray and King",Mid-Market,E-commerce,West,50809.63,2026-01-29
+ACC-00261,Estrada-Nolan,SMB,FinTech,South,23659.76,2024-11-16
+ACC-00262,Santana-Byrd,Mid-Market,Data Infrastructure,South,71117.43,2025-03-03
+ACC-00263,Jones LLC,SMB,EdTech,West,24425.39,2024-06-24
+ACC-00264,"Evans, Hayden and Vaughn",Mid-Market,Data Infrastructure,South,79081.68,2025-01-05
+ACC-00265,Bruce-Gonzalez,SMB,HealthTech,Midwest,15406.5,2025-02-14
+ACC-00266,Castaneda-Rodriguez,SMB,EdTech,Northeast,20678.68,2024-08-14
+ACC-00267,Armstrong-Andrews,SMB,Cybersecurity,West,16678.22,2024-04-26
+ACC-00268,"Phillips, Spence and Barrett",SMB,HR Tech,Northeast,13968.7,2026-04-18
+ACC-00269,Smith-Grimes,Mid-Market,Cybersecurity,Midwest,31682.29,2024-09-19
+ACC-00270,"Beltran, Lozano and Mcgee",SMB,Data Infrastructure,Midwest,20923.66,2025-11-02
+ACC-00271,Parsons-Hall,SMB,Logistics,South,20825.58,2026-02-17
+ACC-00272,Robinson-Lee,Mid-Market,Data Infrastructure,EMEA,46008.54,2025-10-04
+ACC-00273,Byrd-Le,SMB,Logistics,West,15971.66,2025-10-08
+ACC-00274,"Becker, Taylor and Davis",SMB,Legal Tech,EMEA,8954.93,2025-06-03
+ACC-00275,"Lucas, Parker and Alexander",SMB,Logistics,South,8639.32,2025-01-12
+ACC-00276,"Diaz, Anderson and Browning",Mid-Market,HealthTech,West,64975.55,2025-06-03
+ACC-00277,Burgess-Thompson,SMB,Data Infrastructure,EMEA,24221.94,2026-01-26
+ACC-00278,Buchanan LLC,Enterprise,Logistics,EMEA,292069.61,2024-11-25
+ACC-00279,"Shaw, Nelson and Martin",Mid-Market,InsurTech,Midwest,87251.95,2025-04-06
+ACC-00280,Coffey-Phillips,SMB,E-commerce,West,16577.33,2024-06-25
+ACC-00281,Brock-Mcdonald,SMB,Logistics,South,16909.17,2025-09-16
+ACC-00282,Taylor and Sons,SMB,E-commerce,Northeast,14586.08,2026-03-04
+ACC-00283,"Ramsey, Whitney and Coffey",SMB,Data Infrastructure,West,21416.86,2025-10-24
+ACC-00284,"Diaz, Gibbs and Smith",SMB,E-commerce,West,17485.37,2025-01-30
+ACC-00285,"Martinez, Richardson and Curry",SMB,Data Infrastructure,Midwest,13667.15,2025-08-19
+ACC-00286,Richards-Carson,Mid-Market,E-commerce,Northeast,87900.27,2025-12-16
+ACC-00287,Rodriguez-Hall,Mid-Market,Cybersecurity,EMEA,71074.21,2024-03-27
+ACC-00288,Harvey PLC,SMB,EdTech,Northeast,21824.14,2025-11-17
+ACC-00289,Herman-Walker,Mid-Market,InsurTech,West,66991.61,2025-03-09
+ACC-00290,Reid Group,SMB,FinTech,Northeast,13250.72,2024-08-07
+ACC-00291,"Turner, Ortiz and Taylor",SMB,Logistics,Midwest,11851.23,2024-05-20
+ACC-00292,Torres Group,SMB,Legal Tech,West,16630.73,2025-07-06
+ACC-00293,Davis PLC,Mid-Market,InsurTech,West,68025.4,2026-02-23
+ACC-00294,Price LLC,Mid-Market,Data Infrastructure,South,35026.43,2024-07-04
+ACC-00295,"Avery, Horton and Fernandez",Mid-Market,Data Infrastructure,Midwest,71876.89,2024-02-14
+ACC-00296,"Newton, Moore and Perry",SMB,HR Tech,South,18380.12,2026-02-09
+ACC-00297,Bass PLC,Mid-Market,Logistics,Midwest,59710.72,2024-11-12
+ACC-00298,Crosby-Ramirez,Enterprise,Logistics,Midwest,204030.7,2025-08-07
+ACC-00299,"Wood, Ramos and Sampson",Enterprise,Logistics,Northeast,331218.45,2025-05-29
+ACC-00300,Garcia-Jennings,SMB,Cybersecurity,Midwest,21621.41,2024-05-21
+ACC-00301,"Winters, Newman and Brown",Enterprise,FinTech,South,360976.25,2025-07-21
+ACC-00302,Lopez-Martinez,Enterprise,InsurTech,West,178369.53,2026-02-20
+ACC-00303,Davis-Lewis,SMB,Logistics,EMEA,10504.93,2025-03-23
+ACC-00304,"Harper, Smith and Buchanan",SMB,HR Tech,South,23038.71,2024-01-28
+ACC-00305,Zhang PLC,SMB,EdTech,EMEA,14357.35,2025-01-30
+ACC-00306,Jones PLC,Enterprise,E-commerce,Midwest,98738.14,2024-04-11
+ACC-00307,Willis and Sons,Mid-Market,E-commerce,Midwest,33943.97,2024-10-20
+ACC-00308,Schroeder-Kramer,Enterprise,Logistics,Midwest,325240.76,2025-04-25
+ACC-00309,"Smith, Garrison and Thomas",SMB,FinTech,West,8323.07,2024-08-08
+ACC-00310,Fernandez and Sons,Mid-Market,InsurTech,EMEA,59305.15,2024-04-23
+ACC-00311,Guerrero Inc,Mid-Market,HR Tech,Northeast,32920.14,2024-09-01
+ACC-00312,Smith and Sons,SMB,Data Infrastructure,South,9067.72,2026-05-06
+ACC-00313,"Morris, Thompson and Williams",Enterprise,Data Infrastructure,EMEA,95094.96,2025-06-11
+ACC-00314,"Fisher, Wilson and Brown",Mid-Market,Cybersecurity,Northeast,52900.53,2025-09-21
+ACC-00315,Strickland-Palmer,SMB,Data Infrastructure,South,11184.34,2025-11-15
+ACC-00316,Hayes and Sons,SMB,E-commerce,West,24207.86,2025-07-11
+ACC-00317,"Williams, Logan and Camacho",SMB,InsurTech,EMEA,8345.68,2025-04-26
+ACC-00318,"Turner, Schneider and Johnson",SMB,EdTech,Northeast,12312.05,2024-01-17
+ACC-00319,Boone-Simmons,SMB,HealthTech,Northeast,12099.14,2025-11-03
+ACC-00320,Henry Group,Mid-Market,Data Infrastructure,Northeast,33671.62,2024-12-26
+ACC-00321,Lam LLC,SMB,Cybersecurity,South,24673.93,2025-05-05
+ACC-00322,"Hernandez, Martinez and Weber",Mid-Market,Cybersecurity,West,71542.93,2025-04-13
+ACC-00323,"Kelley, Nguyen and Vang",SMB,HR Tech,West,21448.86,2024-02-12
+ACC-00324,"Phillips, Wagner and Jordan",SMB,Legal Tech,EMEA,14769.81,2026-04-14
+ACC-00325,"Wilson, Pena and Rich",SMB,Legal Tech,West,20805.95,2024-07-14
+ACC-00326,"Le, Lewis and Hayes",SMB,FinTech,Northeast,12644.68,2026-03-29
+ACC-00327,Gutierrez Group,SMB,EdTech,South,23208.84,2025-01-30
+ACC-00328,Perry-Davis,SMB,Cybersecurity,South,19765.16,2025-01-11
+ACC-00329,Edwards-Scott,Enterprise,InsurTech,Northeast,338355.91,2026-01-14
+ACC-00330,Mcdaniel Group,SMB,EdTech,EMEA,24916.67,2024-07-03
+ACC-00331,Davis Inc,SMB,E-commerce,West,9361.17,2025-11-07
+ACC-00332,Reynolds Ltd,SMB,Logistics,EMEA,20200.27,2024-06-19
+ACC-00333,"Watson, Anderson and Brown",Mid-Market,E-commerce,South,27753.09,2024-12-27
+ACC-00334,"Hoffman, Santiago and Jenkins",Mid-Market,EdTech,Northeast,66565.51,2026-03-21
+ACC-00335,"Pugh, Henderson and Moon",Enterprise,HealthTech,South,202626.45,2026-03-31
+ACC-00336,Schmitt PLC,Mid-Market,Cybersecurity,West,34280.67,2025-09-14
+ACC-00337,Bell-Lane,Mid-Market,Logistics,West,33204.95,2024-08-29
+ACC-00338,Moore Group,Mid-Market,E-commerce,Northeast,49885.54,2025-08-03
+ACC-00339,Boone LLC,SMB,Cybersecurity,South,24130.0,2025-01-15
+ACC-00340,"Richardson, Farmer and Andrews",SMB,HealthTech,EMEA,10340.82,2025-01-10
+ACC-00341,Bruce-Villegas,SMB,Legal Tech,Midwest,24328.84,2024-01-27
+ACC-00342,"Austin, Day and Johnson",Mid-Market,Logistics,EMEA,50154.18,2025-07-29
+ACC-00343,"Gallegos, Adams and White",SMB,Legal Tech,South,11647.7,2025-09-18
+ACC-00344,"Farmer, Dorsey and Bell",SMB,Logistics,Midwest,10084.84,2026-05-23
+ACC-00345,Kane PLC,SMB,Cybersecurity,South,24953.46,2026-04-09
+ACC-00346,"Morales, Thomas and Schultz",Mid-Market,E-commerce,Northeast,71120.13,2025-07-17
+ACC-00347,Davis PLC,SMB,Legal Tech,Midwest,20100.75,2025-12-18
+ACC-00348,Bennett Group,Mid-Market,E-commerce,EMEA,39575.7,2024-07-24
+ACC-00349,Moore-Collins,Mid-Market,HR Tech,South,26708.46,2025-07-21
+ACC-00350,Frank-Bradley,Mid-Market,Logistics,EMEA,33435.13,2024-03-29
+ACC-00351,Ware and Sons,SMB,EdTech,South,16936.83,2026-02-26
+ACC-00352,Webster Inc,SMB,Data Infrastructure,West,10130.56,2024-11-20
+ACC-00353,"Miller, Ramos and Coleman",Mid-Market,Logistics,South,69207.08,2024-12-18
+ACC-00354,"Ramos, Nelson and Fischer",SMB,InsurTech,EMEA,11093.37,2024-05-12
+ACC-00355,Reed Inc,SMB,FinTech,West,16807.74,2024-11-07
+ACC-00356,Gregory-Watkins,SMB,E-commerce,Midwest,13882.39,2025-06-15
+ACC-00357,"Estrada, Williams and Foster",Enterprise,HealthTech,Northeast,150853.6,2025-07-18
+ACC-00358,"Brown, Harris and Dougherty",SMB,Legal Tech,EMEA,17069.13,2025-05-29
+ACC-00359,Duran LLC,Mid-Market,Data Infrastructure,EMEA,35022.63,2025-11-05
+ACC-00360,Wilson-Jimenez,Mid-Market,Data Infrastructure,Northeast,79764.45,2025-07-31
+ACC-00361,Thompson-James,SMB,FinTech,West,8772.85,2025-10-18
+ACC-00362,"Hall, Hansen and Barnett",Mid-Market,Legal Tech,Midwest,74852.34,2025-03-02
+ACC-00363,Jones-Hensley,Mid-Market,FinTech,South,82784.8,2025-07-12
+ACC-00364,Graham Group,SMB,Legal Tech,South,12162.92,2026-04-06
+ACC-00365,Atkins PLC,Mid-Market,Legal Tech,South,29743.25,2024-03-02
+ACC-00366,Berry-Mckinney,SMB,EdTech,South,15895.52,2024-12-14
+ACC-00367,Roberts-Sullivan,Mid-Market,E-commerce,Northeast,72722.98,2026-05-31
+ACC-00368,Jackson-Meza,SMB,EdTech,Midwest,20931.3,2025-06-11
+ACC-00369,Collier-Gillespie,Mid-Market,E-commerce,Midwest,55320.72,2024-09-30
+ACC-00370,Kim Inc,SMB,Cybersecurity,West,8860.29,2025-01-28
+ACC-00371,Graham Group,Mid-Market,EdTech,Midwest,87574.58,2024-06-12
+ACC-00372,"Miller, Harrell and Reese",Mid-Market,Data Infrastructure,Northeast,37339.22,2024-06-12
+ACC-00373,Cook and Sons,SMB,InsurTech,South,16478.92,2024-11-11
+ACC-00374,Dixon Inc,SMB,HealthTech,South,16592.56,2024-09-03
+ACC-00375,"Hicks, Bullock and Bailey",SMB,E-commerce,West,8859.19,2025-05-21
+ACC-00376,"Mullen, Brewer and Hernandez",Mid-Market,Logistics,Northeast,59884.9,2026-05-17
+ACC-00377,Thomas and Sons,SMB,Cybersecurity,Northeast,20367.64,2026-02-21
+ACC-00378,Morrison Ltd,SMB,FinTech,South,8869.68,2025-07-29
+ACC-00379,Thompson Ltd,SMB,InsurTech,Northeast,9250.04,2025-05-31
+ACC-00380,Marshall-Elliott,SMB,InsurTech,Northeast,22030.29,2025-09-30
+ACC-00381,"Cole, Glass and Cunningham",Mid-Market,HealthTech,Midwest,88380.38,2025-02-07
+ACC-00382,"Downs, Morris and Maddox",SMB,E-commerce,EMEA,23962.13,2026-02-12
+ACC-00383,Hernandez-Jones,SMB,Data Infrastructure,EMEA,14823.58,2024-02-11
+ACC-00384,Welch-Hogan,SMB,Cybersecurity,Northeast,21667.42,2025-06-15
+ACC-00385,"Brown, Romero and Collins",SMB,Data Infrastructure,EMEA,10376.28,2025-09-19
+ACC-00386,Johnson-Wood,SMB,EdTech,EMEA,20568.43,2024-11-02
+ACC-00387,Jones-Lin,Mid-Market,InsurTech,EMEA,59602.09,2025-12-26
+ACC-00388,Gilbert PLC,Mid-Market,Logistics,West,48943.26,2025-11-20
+ACC-00389,Ford-Spencer,SMB,EdTech,EMEA,13230.52,2026-01-12
+ACC-00390,"Huang, Cole and Pacheco",Enterprise,FinTech,EMEA,237122.97,2025-11-02
+ACC-00391,"Lopez, Jacobs and Mason",Mid-Market,Data Infrastructure,EMEA,39790.31,2024-02-22
+ACC-00392,Hayes LLC,Mid-Market,Cybersecurity,EMEA,65886.64,2025-09-26
+ACC-00393,"Miller, Lucas and Williams",Mid-Market,EdTech,Midwest,78407.98,2024-09-05
+ACC-00394,"Kim, Gonzales and Mills",SMB,HealthTech,Midwest,8321.94,2024-11-17
+ACC-00395,Cox LLC,SMB,EdTech,Midwest,14976.42,2026-03-04
+ACC-00396,Ortiz-Morgan,Mid-Market,Logistics,West,70875.39,2025-06-15
+ACC-00397,"Williams, Mccoy and Cook",SMB,E-commerce,South,16933.11,2024-11-17
+ACC-00398,Davis-Gregory,Enterprise,Logistics,EMEA,196121.38,2024-12-28
+ACC-00399,King-York,Mid-Market,Legal Tech,EMEA,56471.71,2024-09-09
+ACC-00400,"Marks, Cook and Aguilar",SMB,Legal Tech,Midwest,24005.25,2024-10-31
+ACC-00401,Rangel LLC,Mid-Market,HR Tech,South,45607.65,2024-12-23
+ACC-00402,"Hale, Myers and Larson",Mid-Market,Legal Tech,Northeast,32921.82,2025-11-23
+ACC-00403,Collins Group,SMB,EdTech,Northeast,24228.35,2026-04-03
+ACC-00404,"Conner, Li and Santiago",SMB,FinTech,Northeast,24240.33,2024-03-21
+ACC-00405,"Osborn, Gaines and Davis",SMB,Logistics,Northeast,20704.75,2024-08-07
+ACC-00406,"Henderson, Cox and Cox",SMB,InsurTech,Northeast,23861.41,2025-12-13
+ACC-00407,Bean LLC,SMB,HealthTech,EMEA,20595.15,2024-09-02
+ACC-00408,Lee-Cooke,SMB,InsurTech,Midwest,18845.06,2024-02-23
+ACC-00409,Jones Inc,SMB,E-commerce,South,9709.26,2026-02-28
+ACC-00410,"Wise, Conley and Stephenson",SMB,InsurTech,Midwest,14917.43,2025-05-02
+ACC-00411,Stanley PLC,SMB,HR Tech,Northeast,13459.85,2025-10-23
+ACC-00412,Harper and Sons,SMB,HealthTech,EMEA,11947.74,2026-01-26
+ACC-00413,White Ltd,Mid-Market,FinTech,Midwest,52162.52,2026-05-07
+ACC-00414,"Lamb, Martin and Kim",SMB,FinTech,South,21395.33,2024-07-09
+ACC-00415,Diaz-Ball,Enterprise,Legal Tech,West,92872.82,2025-08-04
+ACC-00416,Bishop-Goodwin,Mid-Market,E-commerce,Northeast,54532.69,2025-10-18
+ACC-00417,Young-Allen,SMB,Logistics,Midwest,22468.02,2025-04-24
+ACC-00418,Mckee-Lee,SMB,HealthTech,Northeast,10762.4,2025-04-14
+ACC-00419,"Valentine, Joyce and Murray",Mid-Market,Cybersecurity,West,72880.16,2026-03-20
+ACC-00420,Strickland-Shaw,SMB,HR Tech,Midwest,18386.23,2025-10-16
+ACC-00421,Burch-Montoya,Enterprise,EdTech,EMEA,191657.26,2025-02-14
+ACC-00422,"Taylor, Wright and Davidson",Mid-Market,Cybersecurity,Midwest,56034.52,2024-09-11
+ACC-00423,Spencer-Garcia,SMB,EdTech,Midwest,15594.5,2024-09-30
+ACC-00424,"Rosales, Mitchell and Hines",Enterprise,Legal Tech,EMEA,314093.58,2024-01-12
+ACC-00425,Cole-Palmer,SMB,E-commerce,Midwest,9056.11,2024-05-01
+ACC-00426,Davis-Lozano,SMB,Cybersecurity,South,19663.25,2025-12-21
+ACC-00427,Wilkerson-Arias,Mid-Market,HealthTech,Northeast,48890.35,2024-08-14
+ACC-00428,Brown-Shaw,SMB,Cybersecurity,South,10604.15,2026-02-04
+ACC-00429,Hughes Inc,Enterprise,E-commerce,South,307601.63,2025-04-27
+ACC-00430,Walker-Flores,Mid-Market,HR Tech,Midwest,69222.22,2025-09-02
+ACC-00431,Combs Ltd,Enterprise,HealthTech,EMEA,228491.87,2025-12-21
+ACC-00432,Moody-Taylor,SMB,Data Infrastructure,West,9049.89,2025-07-14
+ACC-00433,Lowery-Kennedy,Enterprise,HR Tech,EMEA,256364.65,2024-06-17
+ACC-00434,Blake Group,SMB,InsurTech,South,9976.08,2024-07-29
+ACC-00435,Gilbert-Bullock,Mid-Market,Logistics,West,83427.81,2025-04-01
+ACC-00436,Scott and Sons,Mid-Market,Logistics,Midwest,58361.11,2025-04-12
+ACC-00437,"Bentley, Lynch and Henderson",Mid-Market,InsurTech,South,68729.9,2024-11-11
+ACC-00438,Young-Martinez,Mid-Market,EdTech,Northeast,78069.46,2026-02-02
+ACC-00439,Barnes PLC,SMB,HealthTech,West,15202.86,2025-12-18
+ACC-00440,Brown-Copeland,SMB,FinTech,West,24764.33,2025-04-28
+ACC-00441,Carlson-Smith,SMB,EdTech,Midwest,21072.53,2026-02-23
+ACC-00442,"Andrews, Higgins and Carter",Mid-Market,EdTech,Northeast,89535.68,2025-01-26
+ACC-00443,Mendez and Sons,SMB,EdTech,South,9364.25,2025-11-08
+ACC-00444,"Butler, Beck and Miller",Enterprise,Cybersecurity,Northeast,126776.28,2025-07-04
+ACC-00445,Jones-Fox,SMB,Cybersecurity,Midwest,22191.97,2026-02-13
+ACC-00446,"Hartman, Romero and Smith",SMB,Legal Tech,South,19449.5,2025-07-11
+ACC-00447,Williams-Hughes,SMB,EdTech,Midwest,12207.7,2024-12-20
+ACC-00448,King-Smith,SMB,HR Tech,West,8547.69,2025-11-07
+ACC-00449,Cooper Ltd,SMB,FinTech,Midwest,11503.39,2024-04-13
+ACC-00450,"Fuller, Ingram and Moss",Mid-Market,Logistics,EMEA,68681.54,2024-02-19
+ACC-00451,Anderson-Bell,SMB,FinTech,South,15462.37,2025-07-06
+ACC-00452,Li-Thompson,SMB,FinTech,Midwest,16566.23,2024-10-23
+ACC-00453,"Marshall, Dominguez and Welch",SMB,Data Infrastructure,Northeast,17817.07,2026-03-02
+ACC-00454,Brown Group,Mid-Market,E-commerce,Midwest,44614.69,2024-05-26
+ACC-00455,Carter Inc,Enterprise,InsurTech,Midwest,218203.66,2024-10-08
+ACC-00456,Blackwell LLC,SMB,Data Infrastructure,Midwest,18641.88,2025-03-13
+ACC-00457,Robertson-Hays,Mid-Market,FinTech,Northeast,86203.12,2025-11-18
+ACC-00458,"Kennedy, Johnson and Lucas",SMB,InsurTech,Northeast,19837.24,2025-02-22
+ACC-00459,Kelly-Norman,SMB,EdTech,Midwest,20825.07,2025-04-29
+ACC-00460,"Rivera, Martinez and Richardson",SMB,HR Tech,Northeast,22578.2,2024-05-27
+ACC-00461,Paul-Kline,Mid-Market,FinTech,EMEA,51824.04,2025-03-02
+ACC-00462,Morgan-Lopez,Mid-Market,Cybersecurity,South,40785.8,2024-07-27
+ACC-00463,"Jimenez, Glass and Stone",SMB,HealthTech,South,22401.27,2024-04-04
+ACC-00464,Acosta Inc,SMB,HR Tech,West,12563.85,2025-11-20
+ACC-00465,Morrison-Short,Mid-Market,FinTech,West,37230.61,2026-02-18
+ACC-00466,"Carter, Garcia and Murphy",Mid-Market,InsurTech,Midwest,56160.62,2024-12-06
+ACC-00467,Parker-Morrison,SMB,FinTech,Midwest,23931.72,2026-01-29
+ACC-00468,Jackson-Wallace,SMB,Logistics,Midwest,19825.65,2025-12-21
+ACC-00469,Williams-Berg,SMB,HR Tech,EMEA,13467.46,2024-10-16
+ACC-00470,Mendez-Graham,SMB,InsurTech,Northeast,13243.18,2025-01-03
+ACC-00471,"Whitney, Gould and Jones",SMB,Logistics,South,9676.34,2026-01-09
+ACC-00472,"Sullivan, Palmer and Brady",SMB,E-commerce,Midwest,14301.98,2025-02-27
+ACC-00473,Cisneros and Sons,SMB,HR Tech,Midwest,8275.74,2025-07-20
+ACC-00474,"Gregory, Kim and Martinez",Enterprise,Data Infrastructure,South,181509.61,2024-07-19
+ACC-00475,Osborne LLC,SMB,EdTech,EMEA,22167.17,2025-05-26
+ACC-00476,Reyes-Bradley,Mid-Market,E-commerce,Northeast,74618.44,2025-05-15
+ACC-00477,"Hernandez, Cole and Watson",Enterprise,Logistics,South,142152.43,2026-03-25
+ACC-00478,Hines-Berry,SMB,Cybersecurity,EMEA,16301.38,2025-07-09
+ACC-00479,"Richardson, Edwards and Ramirez",Enterprise,FinTech,EMEA,100485.36,2026-05-17
+ACC-00480,Johnson and Sons,SMB,FinTech,West,15010.67,2026-05-12
+ACC-00481,Holmes-Mcintyre,Mid-Market,HealthTech,Midwest,25594.2,2025-06-01
+ACC-00482,Green LLC,SMB,FinTech,EMEA,18841.39,2025-09-23
+ACC-00483,"Griffin, Davies and Mitchell",Enterprise,Logistics,West,92049.83,2025-07-18
+ACC-00484,Gonzalez-Taylor,SMB,FinTech,EMEA,20277.28,2025-07-02
+ACC-00485,Hayes Ltd,Enterprise,FinTech,EMEA,342078.74,2025-11-21
+ACC-00486,Osborn-Cochran,SMB,Cybersecurity,West,23606.83,2025-06-20
+ACC-00487,Contreras-Mckinney,SMB,HR Tech,EMEA,16949.75,2026-04-14
+ACC-00488,"Daniels, Vance and York",SMB,EdTech,West,14341.88,2025-02-19
+ACC-00489,"Mckinney, Graves and Thompson",SMB,HR Tech,Midwest,13099.57,2026-04-27
+ACC-00490,Hicks-Martinez,Mid-Market,FinTech,West,51343.09,2025-01-21
+ACC-00491,Conner and Sons,Mid-Market,FinTech,West,70684.93,2024-03-25
+ACC-00492,Johnson-Spencer,SMB,EdTech,Northeast,17619.56,2026-05-28
+ACC-00493,Mcdonald-Bird,Enterprise,InsurTech,West,161227.61,2025-12-09
+ACC-00494,Salazar Inc,Enterprise,Logistics,Northeast,104434.21,2024-03-17
+ACC-00495,Parker Ltd,Mid-Market,Legal Tech,EMEA,61628.14,2024-02-03
+ACC-00496,"Mendoza, Jenkins and Ortiz",SMB,E-commerce,West,24344.98,2025-08-24
+ACC-00497,"Jones, Compton and Day",SMB,EdTech,West,13087.71,2025-07-31
+ACC-00498,Owens-Holmes,SMB,EdTech,EMEA,13639.41,2026-02-12
+ACC-00499,Humphrey PLC,Mid-Market,HealthTech,EMEA,73454.68,2024-12-20
+ACC-00500,"Matthews, Saunders and Anderson",SMB,EdTech,Midwest,22257.47,2024-12-14
+ACC-00501,"Bartlett, Brown and Martinez",Mid-Market,Data Infrastructure,EMEA,50785.7,2026-03-03
+ACC-00502,Torres and Sons,SMB,Legal Tech,South,16340.26,2024-12-30
+ACC-00503,Donovan-Perez,Mid-Market,EdTech,South,37072.96,2025-08-22
+ACC-00504,"Jacobson, Singleton and King",Mid-Market,HealthTech,EMEA,44199.67,2024-09-09
+ACC-00505,"Huber, Hill and Weber",Mid-Market,HealthTech,Northeast,35024.36,2025-12-29
+ACC-00506,"Ferguson, Shaw and Jackson",Mid-Market,Cybersecurity,South,45584.08,2024-04-19
+ACC-00507,"Moore, Hopkins and Le",SMB,Legal Tech,South,14118.6,2024-10-03
+ACC-00508,"Morgan, Bradshaw and Williams",SMB,HealthTech,Midwest,15326.65,2025-07-24
+ACC-00509,Miller Ltd,Mid-Market,EdTech,West,26707.02,2024-12-28
+ACC-00510,"Baker, Clark and Armstrong",Mid-Market,Data Infrastructure,EMEA,75988.52,2025-01-29
+ACC-00511,"Fowler, Jimenez and Burton",SMB,EdTech,South,21245.87,2026-01-12
+ACC-00512,May-Turner,Enterprise,HR Tech,EMEA,251542.4,2025-12-02
+ACC-00513,Ballard Ltd,SMB,Cybersecurity,Northeast,13119.23,2025-05-19
+ACC-00514,Evans-Jones,SMB,Cybersecurity,South,12691.35,2024-11-02
+ACC-00515,Moore Group,SMB,HealthTech,Northeast,12278.9,2024-09-09
+ACC-00516,Marshall-Peterson,Mid-Market,Logistics,EMEA,65083.47,2025-04-13
+ACC-00517,Edwards Ltd,SMB,Legal Tech,West,24130.0,2024-12-06
+ACC-00518,Gross-Valencia,Mid-Market,EdTech,Northeast,53614.49,2025-03-16
+ACC-00519,Anderson-Wood,Mid-Market,Data Infrastructure,Midwest,44528.29,2025-09-09
+ACC-00520,"Rodriguez, Allen and Martinez",Enterprise,HR Tech,South,187396.82,2025-02-11
+ACC-00521,Wright-Davis,Enterprise,Legal Tech,South,390006.56,2026-03-11
+ACC-00522,Dougherty-Lin,SMB,EdTech,Northeast,21880.41,2025-02-06
+ACC-00523,Wright-Grimes,SMB,Data Infrastructure,Midwest,18067.86,2025-07-12
+ACC-00524,Li PLC,SMB,InsurTech,West,24201.08,2025-04-17
+ACC-00525,"Edwards, Hines and Jimenez",Enterprise,HR Tech,South,337282.51,2026-05-01
+ACC-00526,"Owens, Koch and Jimenez",Mid-Market,EdTech,South,34046.64,2024-11-06
+ACC-00527,Landry PLC,SMB,Cybersecurity,South,21414.3,2024-03-16
+ACC-00528,Levy-Lewis,SMB,Data Infrastructure,South,17898.15,2025-07-01
+ACC-00529,Williams-Campbell,SMB,EdTech,EMEA,8625.01,2025-01-03
+ACC-00530,"Khan, Pena and Ruiz",Mid-Market,InsurTech,EMEA,66481.72,2024-03-28
+ACC-00531,"Smith, Rodriguez and Anderson",SMB,HR Tech,Northeast,10827.75,2025-09-19
+ACC-00532,Luna-Gallagher,SMB,EdTech,Northeast,24417.19,2025-03-16
+ACC-00533,Williams-Williams,SMB,HealthTech,Northeast,11774.02,2026-02-03
+ACC-00534,"Lee, Tran and Jones",SMB,Data Infrastructure,EMEA,11757.54,2025-01-18
+ACC-00535,"Cole, Pierce and Bryan",SMB,Data Infrastructure,EMEA,10562.66,2024-01-26
+ACC-00536,"Becker, Wilson and Hester",SMB,Legal Tech,South,23649.31,2024-03-28
+ACC-00537,Brooks-Hatfield,SMB,Cybersecurity,Northeast,13302.14,2025-04-11
+ACC-00538,"Mcmillan, Fischer and Gonzalez",Mid-Market,InsurTech,South,47639.52,2024-04-09
+ACC-00539,"Morales, Williams and Williams",SMB,Logistics,Northeast,9141.96,2024-02-15
+ACC-00540,"Cook, Wells and Bryant",Mid-Market,HealthTech,West,80196.7,2025-10-25
+ACC-00541,"Barry, Taylor and Velazquez",SMB,Cybersecurity,Midwest,16771.9,2025-07-19
+ACC-00542,Martin-Ewing,SMB,InsurTech,South,24293.86,2024-08-25
+ACC-00543,"Kirby, Wheeler and Romero",Mid-Market,Cybersecurity,Midwest,66631.13,2025-03-18
+ACC-00544,"Patel, Erickson and Evans",SMB,Data Infrastructure,Midwest,15642.78,2025-03-15
+ACC-00545,Richardson Ltd,SMB,HR Tech,Midwest,12731.86,2025-12-21
+ACC-00546,Whitney PLC,Mid-Market,HealthTech,EMEA,31613.88,2025-07-03
+ACC-00547,Robles-Swanson,SMB,E-commerce,Midwest,15778.36,2024-09-25
+ACC-00548,"Soto, Carlson and Baker",Mid-Market,Logistics,EMEA,87784.57,2024-11-16
+ACC-00549,"Patton, Parsons and Lane",Mid-Market,Data Infrastructure,South,63155.31,2024-12-22
+ACC-00550,"Williams, Castillo and Warren",SMB,Logistics,EMEA,10932.97,2025-11-20
+ACC-00551,"Harvey, Randall and Hernandez",Mid-Market,Legal Tech,EMEA,63360.94,2025-11-19
+ACC-00552,"Allen, Armstrong and Graves",SMB,HealthTech,Midwest,13191.46,2024-07-06
+ACC-00553,Smith LLC,SMB,Cybersecurity,EMEA,14603.88,2025-09-02
+ACC-00554,Hernandez-Vaughn,SMB,EdTech,South,11157.81,2025-10-12
+ACC-00555,Shaw-Carr,SMB,Cybersecurity,EMEA,10836.71,2024-10-22
+ACC-00556,Salas-Fitzgerald,SMB,E-commerce,South,18529.97,2025-01-02
+ACC-00557,Thornton PLC,Enterprise,Logistics,Midwest,150489.83,2025-01-28
+ACC-00558,Hoffman Ltd,Enterprise,InsurTech,South,216831.65,2025-05-18
+ACC-00559,Fox-Edwards,SMB,Logistics,South,10843.31,2025-08-01
+ACC-00560,Stevens PLC,SMB,HR Tech,Northeast,8555.82,2024-08-18
+ACC-00561,Payne-Lowe,SMB,Cybersecurity,South,17616.06,2026-03-02
+ACC-00562,"Becker, Lara and Baker",Mid-Market,InsurTech,EMEA,32358.71,2024-04-26
+ACC-00563,Lee-Wright,SMB,InsurTech,Northeast,17214.74,2026-02-13
+ACC-00564,"Evans, David and Hendrix",SMB,Logistics,EMEA,11715.21,2025-03-11
+ACC-00565,Bush-Vaughn,SMB,HR Tech,Northeast,22871.77,2024-02-03
+ACC-00566,Stewart-Bailey,SMB,E-commerce,West,15464.19,2024-04-30
+ACC-00567,"Hill, Martinez and Rhodes",Mid-Market,HR Tech,Midwest,77695.68,2025-08-25
+ACC-00568,Huang-Foster,Mid-Market,Data Infrastructure,South,35788.81,2024-05-22
+ACC-00569,Blevins-Ballard,Mid-Market,HR Tech,West,62054.83,2025-06-29
+ACC-00570,Williams-Moses,SMB,InsurTech,Midwest,13502.11,2025-12-21
+ACC-00571,Reed Group,SMB,Data Infrastructure,Northeast,24190.75,2025-06-10
+ACC-00572,"Scott, Mendoza and Harris",Enterprise,HealthTech,Midwest,388459.32,2026-03-15
+ACC-00573,"Nelson, Hoffman and Nelson",SMB,FinTech,Northeast,22739.81,2024-05-09
+ACC-00574,Gilbert PLC,Mid-Market,Cybersecurity,Midwest,34505.82,2024-11-25
+ACC-00575,Sanchez Ltd,Mid-Market,EdTech,South,34241.16,2025-10-09
+ACC-00576,"Perez, Hall and Garcia",SMB,EdTech,South,15683.86,2025-10-10
+ACC-00577,Love-Garcia,Mid-Market,HealthTech,South,58514.88,2024-10-11
+ACC-00578,Smith PLC,Mid-Market,E-commerce,South,86766.52,2024-12-01
+ACC-00579,Russell Group,Mid-Market,HealthTech,South,66264.64,2025-12-15
+ACC-00580,Santos-Avila,SMB,HealthTech,EMEA,14761.17,2025-03-15
+ACC-00581,Morris-Brewer,Mid-Market,Logistics,Northeast,45986.23,2024-10-17
+ACC-00582,Pearson and Sons,SMB,Data Infrastructure,Midwest,17624.42,2025-05-11
+ACC-00583,"Rodgers, Jefferson and Johnson",Mid-Market,FinTech,West,31472.36,2026-03-13
+ACC-00584,Butler and Sons,Mid-Market,FinTech,West,85413.14,2024-06-10
+ACC-00585,Osborn Group,SMB,FinTech,South,11439.41,2025-12-06
+ACC-00586,Lopez-Curry,Enterprise,Legal Tech,Midwest,361071.24,2024-10-07
+ACC-00587,Mcdowell-Smith,SMB,E-commerce,Northeast,9401.15,2025-11-11
+ACC-00588,"Morrison, Hebert and Rogers",Enterprise,Cybersecurity,West,212865.89,2024-11-08
+ACC-00589,Hays-Daniels,Mid-Market,HR Tech,South,67606.54,2025-12-21
+ACC-00590,Small-Anderson,SMB,HR Tech,South,9324.96,2025-08-30
+ACC-00591,"Mcdonald, Lee and Rodriguez",SMB,Logistics,West,8137.06,2024-12-17
+ACC-00592,Simon Ltd,Mid-Market,EdTech,Midwest,56050.52,2024-08-22
+ACC-00593,Higgins-Smith,SMB,HealthTech,West,13326.98,2024-11-02
+ACC-00594,Gibbs-Bradley,SMB,Cybersecurity,Midwest,9163.0,2025-07-30
+ACC-00595,Thompson Ltd,SMB,Cybersecurity,South,13970.19,2024-08-06
+ACC-00596,Wilcox-Robertson,Mid-Market,Cybersecurity,South,65044.94,2025-03-29
+ACC-00597,Morales Inc,Mid-Market,HealthTech,West,34100.85,2024-05-06
+ACC-00598,Holden Group,Mid-Market,EdTech,Northeast,87611.17,2024-11-18
+ACC-00599,Boyle-Smith,Mid-Market,HR Tech,Northeast,66900.34,2024-09-11
+ACC-00600,Young-Molina,Mid-Market,Data Infrastructure,EMEA,43519.85,2025-12-08
+ACC-00601,Turner-Sharp,SMB,Legal Tech,Midwest,16801.74,2025-06-05
+ACC-00602,Green LLC,SMB,EdTech,Northeast,18984.89,2026-03-13
+ACC-00603,"Young, Contreras and Marshall",Enterprise,HR Tech,South,209624.53,2024-09-03
+ACC-00604,Sullivan PLC,SMB,Data Infrastructure,West,16980.87,2024-01-13
+ACC-00605,"Carrillo, Vaughn and Fowler",Enterprise,E-commerce,Midwest,209919.86,2026-05-09
+ACC-00606,Richardson-Walker,Mid-Market,E-commerce,EMEA,69391.23,2026-02-20
+ACC-00607,Mendoza Group,SMB,HealthTech,West,17985.18,2024-01-15
+ACC-00608,"Zhang, Brooks and Miles",SMB,FinTech,West,24127.56,2025-02-11
+ACC-00609,Todd-Pham,SMB,InsurTech,South,15200.78,2025-02-15
+ACC-00610,Gill Ltd,SMB,InsurTech,EMEA,18472.8,2024-10-11
+ACC-00611,"Marks, Miller and Griffin",SMB,HealthTech,EMEA,23655.72,2026-04-07
+ACC-00612,"Cox, Stark and Rodriguez",SMB,E-commerce,South,17969.43,2026-02-20
+ACC-00613,"Leach, Harris and Herrera",Mid-Market,HealthTech,Northeast,70413.93,2026-01-17
+ACC-00614,Murphy PLC,Enterprise,HR Tech,West,165788.72,2025-03-20
+ACC-00615,Wilson-Harris,SMB,Data Infrastructure,EMEA,8935.49,2025-11-13
+ACC-00616,"Burns, Nolan and Griffin",Mid-Market,Cybersecurity,West,25823.22,2024-05-20
+ACC-00617,Chavez PLC,Mid-Market,Cybersecurity,South,86946.05,2025-06-19
+ACC-00618,Bryant-Brown,SMB,Legal Tech,Midwest,14321.78,2026-02-06
+ACC-00619,Chambers-Parker,Mid-Market,Legal Tech,West,75142.97,2024-01-31
+ACC-00620,Foster Inc,SMB,EdTech,Northeast,16905.52,2024-09-26
+ACC-00621,"Robinson, Jones and Henderson",Mid-Market,Data Infrastructure,West,57249.59,2025-06-07
+ACC-00622,"Brown, Mcknight and Michael",SMB,Logistics,EMEA,10836.98,2024-06-10
+ACC-00623,Andersen Group,SMB,HealthTech,EMEA,19460.05,2024-04-28
+ACC-00624,Mitchell and Sons,SMB,InsurTech,West,8748.64,2024-01-13
+ACC-00625,Cannon Ltd,SMB,Logistics,Northeast,14510.65,2024-06-02
+ACC-00626,"Stuart, Brooks and Vance",SMB,FinTech,EMEA,21652.96,2026-01-01
+ACC-00627,Kane-Knox,Mid-Market,EdTech,Midwest,45917.13,2025-03-02
+ACC-00628,Miller-Brandt,Enterprise,E-commerce,Northeast,346059.07,2025-08-08
+ACC-00629,"Anderson, Dalton and Wilson",SMB,InsurTech,West,11048.85,2026-04-03
+ACC-00630,"Long, Anderson and Irwin",SMB,FinTech,South,9171.75,2025-04-21
+ACC-00631,Avila LLC,Mid-Market,Legal Tech,Northeast,30615.06,2025-04-12
+ACC-00632,Nunez-Stephens,SMB,HR Tech,Northeast,17584.71,2024-11-07
+ACC-00633,"Gray, Hall and Murray",Mid-Market,HR Tech,South,48937.79,2025-05-20
+ACC-00634,Hill Ltd,Enterprise,HR Tech,EMEA,325749.49,2024-09-08
+ACC-00635,Johnson Ltd,SMB,EdTech,West,11960.96,2024-12-20
+ACC-00636,Mendez-Mayer,Mid-Market,FinTech,Northeast,25095.03,2025-11-04
+ACC-00637,Allen Inc,SMB,Legal Tech,West,11488.3,2024-08-31
+ACC-00638,Wheeler Group,SMB,FinTech,Midwest,20098.09,2024-04-05
+ACC-00639,"Powers, Brennan and Sanchez",SMB,HR Tech,EMEA,15021.97,2025-01-16
+ACC-00640,Morales and Sons,SMB,HealthTech,EMEA,9624.81,2024-05-16
+ACC-00641,"Robinson, Shields and Brown",Mid-Market,EdTech,West,63473.22,2024-03-04
+ACC-00642,"Holder, Young and Hendricks",SMB,Cybersecurity,Midwest,12958.49,2026-05-21
+ACC-00643,"Flores, Harper and Chambers",SMB,EdTech,Northeast,13406.98,2024-10-05
+ACC-00644,Young-Walter,SMB,HR Tech,Midwest,21258.93,2025-08-21
+ACC-00645,"Boyd, Gutierrez and Hill",SMB,HealthTech,Midwest,15642.63,2024-11-17
+ACC-00646,"Fry, Hobbs and Buck",SMB,InsurTech,Northeast,24398.79,2024-07-31
+ACC-00647,"Shelton, Peters and Williams",SMB,Logistics,Northeast,22492.2,2024-04-02
+ACC-00648,David-Powers,SMB,Legal Tech,EMEA,8685.61,2026-05-05
+ACC-00649,"Flores, Butler and Hernandez",Mid-Market,Cybersecurity,West,71225.23,2024-12-30
+ACC-00650,White-Medina,SMB,FinTech,Northeast,12422.84,2024-06-27
+ACC-00651,Atkinson LLC,SMB,EdTech,South,17451.21,2025-07-17
+ACC-00652,"Thomas, Ford and Brown",SMB,Logistics,West,21666.24,2024-05-23
+ACC-00653,Faulkner-Grant,SMB,FinTech,Midwest,10222.16,2026-04-23
+ACC-00654,Price LLC,SMB,HealthTech,EMEA,17964.02,2026-04-12
+ACC-00655,Rivera Inc,SMB,HealthTech,Midwest,23342.43,2025-03-30
+ACC-00656,Boone-Davis,Mid-Market,HealthTech,Northeast,32964.3,2025-04-17
+ACC-00657,"Calderon, Williams and Bennett",SMB,Data Infrastructure,South,21968.65,2025-02-08
+ACC-00658,"Morrison, Russo and Lopez",SMB,EdTech,South,10937.72,2024-08-07
+ACC-00659,"Ramsey, Hansen and Mendoza",Enterprise,Legal Tech,Northeast,228263.54,2024-06-01
+ACC-00660,Turner-Stout,SMB,Data Infrastructure,EMEA,12178.34,2024-10-29
+ACC-00661,Giles Ltd,SMB,InsurTech,South,9036.64,2024-10-13
+ACC-00662,Burgess Group,SMB,EdTech,Midwest,18925.09,2026-03-27
+ACC-00663,Dominguez Ltd,SMB,InsurTech,West,24819.86,2026-03-11
+ACC-00664,Sanders and Sons,Mid-Market,Logistics,EMEA,75793.28,2024-12-18
+ACC-00665,"Morris, Campbell and Owens",Enterprise,InsurTech,Northeast,210398.2,2024-07-03
+ACC-00666,"Howard, Green and Hunt",SMB,Data Infrastructure,Midwest,8498.16,2026-04-10
+ACC-00667,Owens-Lang,Mid-Market,FinTech,South,59413.1,2026-02-24
+ACC-00668,"Harrison, Franco and Rocha",Mid-Market,HR Tech,Midwest,31508.73,2025-11-03
+ACC-00669,Edwards-Williams,SMB,InsurTech,West,20988.85,2024-08-12
+ACC-00670,Figueroa Inc,Mid-Market,EdTech,Northeast,85788.39,2026-05-15
+ACC-00671,Tran-Silva,SMB,HR Tech,EMEA,13406.07,2026-01-25
+ACC-00672,"Butler, Hernandez and Rivera",Mid-Market,Data Infrastructure,West,70724.44,2024-12-26
+ACC-00673,Hudson-Sanchez,Enterprise,Data Infrastructure,Midwest,264563.76,2024-07-11
+ACC-00674,"Pena, Cohen and Scott",Mid-Market,Logistics,EMEA,45088.45,2025-05-17
+ACC-00675,Levy-May,SMB,FinTech,Midwest,18228.27,2024-01-21
+ACC-00676,Murray-Oconnor,SMB,FinTech,Northeast,23604.24,2024-07-25
+ACC-00677,Jackson-Cortez,Mid-Market,E-commerce,Midwest,84720.75,2026-05-14
+ACC-00678,White-Preston,Mid-Market,FinTech,West,34601.28,2025-12-22
+ACC-00679,"Bernard, Warren and Combs",Enterprise,HealthTech,EMEA,356807.53,2024-03-15
+ACC-00680,Landry Ltd,SMB,EdTech,EMEA,9717.55,2024-11-05
+ACC-00681,Duran Group,SMB,Cybersecurity,South,21461.32,2025-05-13
+ACC-00682,Kirby and Sons,Mid-Market,Cybersecurity,EMEA,70081.43,2025-09-20
+ACC-00683,Mann Inc,Mid-Market,HR Tech,EMEA,77939.53,2025-01-22
+ACC-00684,Wagner LLC,SMB,Legal Tech,Midwest,11021.04,2024-01-02
+ACC-00685,Williamson Ltd,Enterprise,Data Infrastructure,South,353734.66,2026-02-28
+ACC-00686,"Durham, Hopkins and Smith",Enterprise,FinTech,Midwest,276740.49,2026-04-08
+ACC-00687,"Arnold, Smith and Moreno",Enterprise,HR Tech,EMEA,122274.17,2025-05-23
+ACC-00688,Nichols-Mitchell,SMB,HealthTech,Midwest,13895.77,2024-11-23
+ACC-00689,"Li, Craig and Drake",SMB,HealthTech,Northeast,15592.71,2024-09-28
+ACC-00690,Rodriguez Inc,SMB,HealthTech,Northeast,12363.19,2024-04-20
+ACC-00691,"Hernandez, Lee and Fox",Mid-Market,FinTech,South,53484.31,2025-03-05
+ACC-00692,Adams-Sanders,Enterprise,EdTech,South,363348.9,2024-12-25
+ACC-00693,Chung-Stevens,SMB,HealthTech,South,21408.41,2025-08-14
+ACC-00694,Branch and Sons,Mid-Market,HR Tech,Midwest,54333.68,2026-03-29
+ACC-00695,Sutton-Abbott,Mid-Market,Legal Tech,West,45716.6,2024-04-17
+ACC-00696,"Frey, Santos and Johnson",SMB,Cybersecurity,South,10735.38,2024-03-17
+ACC-00697,Gray-Tran,SMB,HealthTech,Northeast,18098.52,2025-09-20
+ACC-00698,Walsh Ltd,Enterprise,FinTech,South,382157.1,2024-06-17
+ACC-00699,Miller Group,Mid-Market,EdTech,Midwest,28481.12,2024-12-05
+ACC-00700,"Mueller, Knight and Hodge",SMB,HR Tech,South,19852.34,2026-01-09
+ACC-00701,Jacobson Inc,Enterprise,InsurTech,Northeast,294785.35,2024-10-31
+ACC-00702,Lewis Ltd,SMB,FinTech,South,17720.09,2026-05-10
+ACC-00703,"Alvarez, Williams and Jones",SMB,FinTech,Northeast,8064.86,2024-03-30
+ACC-00704,Lam-Elliott,SMB,Data Infrastructure,South,11394.47,2024-01-27
+ACC-00705,White LLC,SMB,Legal Tech,West,16050.7,2024-04-28
+ACC-00706,Ali PLC,SMB,EdTech,South,16314.65,2025-11-07
+ACC-00707,Goodwin Ltd,SMB,InsurTech,South,11142.98,2025-01-25
+ACC-00708,Hickman-Evans,SMB,Logistics,West,12476.03,2025-04-21
+ACC-00709,"Allen, Davenport and Price",SMB,Legal Tech,EMEA,9047.87,2026-02-09
+ACC-00710,"Rivera, Campos and Taylor",Mid-Market,HealthTech,West,68429.18,2026-04-07
+ACC-00711,"Ramsey, Mason and Mccann",SMB,Data Infrastructure,Midwest,17411.23,2026-05-10
+ACC-00712,Davis and Sons,SMB,InsurTech,South,24415.67,2025-12-04
+ACC-00713,Peterson PLC,Mid-Market,Logistics,EMEA,82307.5,2025-05-02
+ACC-00714,"Sanders, Ayala and Johnson",SMB,EdTech,West,16535.72,2025-06-13
+ACC-00715,Bowers-Hayes,Mid-Market,Data Infrastructure,Midwest,32818.32,2026-02-14
+ACC-00716,Kelly Group,SMB,Cybersecurity,Midwest,21743.83,2024-05-09
+ACC-00717,Lopez-Willis,SMB,HealthTech,South,11432.63,2026-04-22
+ACC-00718,Miller-Montgomery,Mid-Market,Data Infrastructure,Northeast,45783.72,2026-01-14
+ACC-00719,Marquez Inc,Enterprise,HealthTech,West,210310.74,2025-02-10
+ACC-00720,Moore-Dawson,Mid-Market,Legal Tech,EMEA,54780.22,2024-01-13
+ACC-00721,"Moore, Price and Ward",Mid-Market,Data Infrastructure,EMEA,58966.53,2025-03-05
+ACC-00722,Smith LLC,SMB,Cybersecurity,Midwest,17632.1,2025-08-19
+ACC-00723,Ward-Nelson,Mid-Market,HealthTech,West,61574.44,2024-04-13
+ACC-00724,Miller Group,Mid-Market,InsurTech,Northeast,82063.08,2024-09-27
+ACC-00725,Hawkins-Hunt,SMB,Logistics,EMEA,18352.36,2024-02-08
+ACC-00726,Johnson LLC,SMB,EdTech,Midwest,18510.16,2025-11-28
+ACC-00727,"Davis, George and Nguyen",Mid-Market,FinTech,South,82822.32,2024-12-05
+ACC-00728,Smith-Gutierrez,Mid-Market,FinTech,South,84854.27,2025-01-16
+ACC-00729,Hardy PLC,SMB,Legal Tech,Northeast,12765.89,2025-05-18
+ACC-00730,Armstrong and Sons,Mid-Market,HealthTech,Midwest,33735.06,2026-01-31
+ACC-00731,"James, Taylor and Turner",SMB,E-commerce,Northeast,20389.59,2025-09-11
+ACC-00732,Thomas-Jackson,Mid-Market,HR Tech,South,38740.38,2026-04-23
+ACC-00733,Fisher-Washington,SMB,Logistics,EMEA,22742.21,2026-04-20
+ACC-00734,Ward and Sons,SMB,Cybersecurity,West,13289.09,2025-06-02
+ACC-00735,"Weber, Wheeler and Gonzalez",SMB,InsurTech,EMEA,8492.12,2024-07-16
+ACC-00736,Taylor Inc,Enterprise,HR Tech,West,167341.98,2025-04-12
+ACC-00737,Cook-Oliver,SMB,E-commerce,Midwest,12657.62,2026-04-23
+ACC-00738,Alexander-Jordan,SMB,EdTech,West,19579.96,2024-09-04
+ACC-00739,"Mccann, Taylor and Flores",SMB,Data Infrastructure,South,11018.92,2025-04-30
+ACC-00740,"Harris, Edwards and Oconnell",Mid-Market,E-commerce,Northeast,35628.38,2024-09-21
+ACC-00741,Carter-Neal,Mid-Market,HealthTech,Northeast,26784.28,2024-02-20
+ACC-00742,Faulkner-Casey,SMB,Data Infrastructure,Midwest,22570.89,2025-10-24
+ACC-00743,Bennett-Velasquez,SMB,HR Tech,Northeast,19076.98,2025-06-09
+ACC-00744,Diaz-Frederick,SMB,FinTech,South,23495.76,2025-10-24
+ACC-00745,Vargas PLC,SMB,FinTech,Midwest,12290.64,2026-04-04
+ACC-00746,Maldonado PLC,Enterprise,Legal Tech,South,367599.72,2026-05-22
+ACC-00747,Benton Group,SMB,Legal Tech,Midwest,15933.87,2025-11-24
+ACC-00748,"Clark, Salinas and Guerra",SMB,Data Infrastructure,South,17936.28,2024-01-08
+ACC-00749,Fuentes Group,SMB,E-commerce,EMEA,19004.82,2025-09-15
+ACC-00750,"Porter, Schultz and Allen",SMB,HealthTech,South,9085.23,2024-10-10
+ACC-00751,"Moore, Henderson and Bennett",Mid-Market,Legal Tech,Northeast,67647.77,2025-10-29
+ACC-00752,Ewing-Mendoza,SMB,Cybersecurity,EMEA,21013.06,2024-02-28
+ACC-00753,Ferguson-Mclean,Mid-Market,Data Infrastructure,South,67934.47,2025-11-28
+ACC-00754,"Barnes, Johnson and Schmitt",SMB,FinTech,South,24956.97,2024-09-22
+ACC-00755,"Woodard, Herrera and Little",Enterprise,EdTech,South,318386.95,2025-08-20
+ACC-00756,Rodriguez and Sons,Mid-Market,Data Infrastructure,Midwest,47305.86,2025-12-31
+ACC-00757,"Ortega, Jackson and Salazar",SMB,InsurTech,South,23410.95,2025-11-18
+ACC-00758,"Terrell, Byrd and Ross",SMB,Legal Tech,Midwest,22290.86,2025-07-25
+ACC-00759,Sheppard-Jordan,SMB,HealthTech,South,10175.05,2024-09-21
+ACC-00760,Garcia and Sons,Mid-Market,InsurTech,Midwest,86550.02,2024-12-09
+ACC-00761,"Burgess, Grant and Watts",Mid-Market,HR Tech,Northeast,39516.32,2024-11-10
+ACC-00762,Griffin Group,SMB,E-commerce,Northeast,12429.51,2024-10-28
+ACC-00763,Barton-Chapman,SMB,HealthTech,South,8912.51,2025-10-11
+ACC-00764,"Hernandez, Cuevas and Webb",Mid-Market,Data Infrastructure,West,55694.28,2024-07-18
+ACC-00765,Perry-Nixon,SMB,EdTech,EMEA,13072.05,2024-02-25
+ACC-00766,Guerra Ltd,Enterprise,Cybersecurity,Midwest,397627.83,2024-12-16
+ACC-00767,Bailey LLC,SMB,Data Infrastructure,South,10434.81,2026-01-02
+ACC-00768,Mueller-Boyd,SMB,HealthTech,South,13654.7,2024-06-30
+ACC-00769,Alvarez-Kim,SMB,FinTech,West,15684.9,2024-08-02
+ACC-00770,"Chavez, Jones and Williams",Mid-Market,Cybersecurity,EMEA,74691.44,2025-05-16
+ACC-00771,"Wilson, Sweeney and Wong",Mid-Market,HealthTech,Midwest,64941.18,2025-10-10
+ACC-00772,"Marsh, Spears and Yang",SMB,EdTech,South,14516.38,2024-02-08
+ACC-00773,"Thompson, Moore and Castro",SMB,E-commerce,West,23164.11,2026-02-14
+ACC-00774,Hall-Sullivan,Mid-Market,HR Tech,West,68988.63,2025-10-03
+ACC-00775,Lopez Ltd,Mid-Market,HR Tech,Northeast,45286.0,2024-04-15
+ACC-00776,Foster-Mclaughlin,SMB,Data Infrastructure,Northeast,10839.34,2026-04-23
+ACC-00777,Cole Group,SMB,Legal Tech,South,20373.14,2025-09-02
+ACC-00778,Smith-Lewis,SMB,EdTech,Midwest,13826.46,2025-05-16
+ACC-00779,Goodwin-Stokes,SMB,HR Tech,Midwest,24117.43,2026-04-11
+ACC-00780,Ray PLC,SMB,HR Tech,Midwest,20361.87,2024-05-14
+ACC-00781,Diaz and Sons,SMB,FinTech,EMEA,16578.77,2024-05-06
+ACC-00782,Wilson-Lambert,SMB,FinTech,South,22901.25,2024-09-18
+ACC-00783,Rose-Fowler,Mid-Market,Data Infrastructure,West,63605.06,2024-02-19
+ACC-00784,"Price, Long and Wilson",Mid-Market,FinTech,West,69833.73,2025-03-02
+ACC-00785,Bruce-Williamson,SMB,HealthTech,EMEA,12296.55,2025-12-19
+ACC-00786,"Mccarthy, Evans and Mendez",SMB,FinTech,Northeast,15154.81,2024-04-13
+ACC-00787,Powers LLC,Mid-Market,Legal Tech,EMEA,64366.23,2024-05-20
+ACC-00788,Allen Inc,SMB,HealthTech,EMEA,20219.03,2024-04-30
+ACC-00789,Brooks and Sons,SMB,HealthTech,South,11376.99,2024-07-23
+ACC-00790,"Price, Carlson and Andrews",Mid-Market,InsurTech,Midwest,48264.92,2025-02-23
+ACC-00791,Lopez-Reid,SMB,FinTech,EMEA,16438.03,2024-07-31
+ACC-00792,"Ellison, Arias and Thompson",Mid-Market,Logistics,Northeast,40242.84,2024-01-14
+ACC-00793,Burns and Sons,Mid-Market,HealthTech,EMEA,68486.43,2024-06-01
+ACC-00794,Edwards Group,Enterprise,InsurTech,West,314304.72,2024-04-13
+ACC-00795,"Brown, Howard and Smith",Enterprise,HR Tech,South,396486.44,2024-10-30
+ACC-00796,Lee Group,SMB,FinTech,West,21824.03,2024-02-10
+ACC-00797,"Wagner, Simpson and Cohen",Mid-Market,E-commerce,Northeast,52689.69,2024-04-28
+ACC-00798,Mckinney-Wallace,SMB,FinTech,West,22483.98,2025-11-10
+ACC-00799,Miller Inc,Mid-Market,E-commerce,Northeast,83144.3,2025-09-28
+ACC-00800,Carter LLC,SMB,HealthTech,Northeast,21854.39,2024-07-06
+ACC-00801,Medina and Sons,SMB,EdTech,South,12621.16,2025-01-29
+ACC-00802,Cunningham-Barton,Mid-Market,Logistics,South,67175.02,2026-03-27
+ACC-00803,Dunn-Wilson,SMB,Cybersecurity,West,24686.68,2026-05-14
+ACC-00804,Adams PLC,SMB,EdTech,EMEA,16205.47,2025-08-05
+ACC-00805,Weaver-Sherman,Mid-Market,Cybersecurity,EMEA,49683.8,2025-01-02
+ACC-00806,"Alexander, Robinson and Coleman",Mid-Market,Cybersecurity,South,84825.87,2024-04-25
+ACC-00807,"Greer, Potter and Evans",Enterprise,Logistics,West,109634.17,2025-11-01
+ACC-00808,Cole LLC,SMB,InsurTech,EMEA,20304.15,2024-08-17
+ACC-00809,Gonzales Inc,Enterprise,E-commerce,EMEA,252161.98,2025-12-18
+ACC-00810,Clark Ltd,Mid-Market,EdTech,Midwest,56325.43,2025-11-10
+ACC-00811,"Norris, Callahan and Bishop",Mid-Market,EdTech,Midwest,79537.15,2025-07-25
+ACC-00812,Martin-Taylor,Enterprise,Data Infrastructure,West,93609.91,2024-06-09
+ACC-00813,Li Inc,SMB,Logistics,South,22780.07,2024-03-17
+ACC-00814,"Bell, Campbell and Ryan",Mid-Market,E-commerce,Midwest,46508.16,2024-10-11
+ACC-00815,Werner-Carter,SMB,HR Tech,EMEA,18936.39,2025-02-16
+ACC-00816,"Adams, Hodge and Duke",Mid-Market,HealthTech,South,53872.28,2025-08-09
+ACC-00817,"Ochoa, Taylor and Brady",SMB,Logistics,South,13373.05,2025-05-24
+ACC-00818,Sellers-Riddle,Mid-Market,FinTech,West,51223.58,2024-02-06
+ACC-00819,"Martinez, Cline and Wright",Mid-Market,FinTech,West,76465.91,2025-09-25
+ACC-00820,"Morris, Wright and Bridges",Mid-Market,InsurTech,EMEA,38445.33,2025-11-18
+ACC-00821,Burns-Ray,SMB,E-commerce,Northeast,22030.29,2026-04-16
+ACC-00822,Burton-Brooks,SMB,Logistics,Northeast,17522.56,2025-09-26
+ACC-00823,Schultz Inc,Mid-Market,E-commerce,South,32411.52,2026-02-16
+ACC-00824,Robertson-Ramirez,Mid-Market,FinTech,Northeast,48084.03,2025-10-10
+ACC-00825,Gibson-Freeman,Enterprise,Legal Tech,EMEA,251815.38,2025-12-19
+ACC-00826,"Smith, Schroeder and Oconnor",SMB,Cybersecurity,South,10387.64,2026-01-04
+ACC-00827,"Stanton, Reid and Terry",Mid-Market,EdTech,West,41528.81,2024-07-19
+ACC-00828,Flynn Group,SMB,EdTech,Midwest,15769.78,2026-03-11
+ACC-00829,Donaldson and Sons,SMB,E-commerce,West,20871.54,2024-02-17
+ACC-00830,Adams-Clayton,Enterprise,Data Infrastructure,West,329365.0,2025-04-06
+ACC-00831,Kelley-Anderson,SMB,Data Infrastructure,EMEA,10288.81,2025-05-25
+ACC-00832,Kramer-Shannon,SMB,FinTech,EMEA,23900.24,2026-05-08
+ACC-00833,Williams Ltd,Mid-Market,InsurTech,Midwest,69968.15,2024-06-26
+ACC-00834,Smith-Noble,Mid-Market,Cybersecurity,West,50181.36,2025-09-06
+ACC-00835,Alexander Inc,Mid-Market,E-commerce,EMEA,82290.39,2025-03-04
+ACC-00836,Harris-Barker,Enterprise,HR Tech,Northeast,213339.7,2024-12-17
+ACC-00837,Khan LLC,Enterprise,Logistics,Midwest,132835.8,2025-09-08
+ACC-00838,Baxter LLC,Mid-Market,InsurTech,Northeast,79799.84,2025-07-14
+ACC-00839,Pena LLC,Mid-Market,InsurTech,Midwest,38057.79,2025-10-01
+ACC-00840,Watson Ltd,Mid-Market,E-commerce,Midwest,88786.81,2025-10-27
+ACC-00841,Williams Ltd,Enterprise,Cybersecurity,EMEA,258172.36,2025-10-14
+ACC-00842,Barber-Fischer,SMB,HealthTech,Northeast,17558.76,2025-08-19
+ACC-00843,Rios-Padilla,Mid-Market,EdTech,EMEA,43585.32,2026-05-17
+ACC-00844,Lewis Inc,SMB,FinTech,EMEA,9810.0,2025-01-25
+ACC-00845,Wheeler PLC,SMB,FinTech,Midwest,12538.63,2026-03-15
+ACC-00846,"Wallace, Smith and Cooper",SMB,Legal Tech,Northeast,10489.28,2024-03-04
+ACC-00847,Mcneil Group,Mid-Market,Legal Tech,Midwest,73983.61,2024-02-03
+ACC-00848,"Anderson, Jones and Reyes",SMB,Logistics,West,18473.85,2025-11-22
+ACC-00849,"Shaffer, Garcia and Richardson",Mid-Market,HR Tech,EMEA,50277.63,2025-06-07
+ACC-00850,Taylor-Ayala,Mid-Market,Legal Tech,West,85221.51,2025-01-31
+ACC-00851,May Ltd,SMB,E-commerce,EMEA,8914.64,2026-01-31
+ACC-00852,Jones PLC,SMB,Data Infrastructure,South,22109.72,2025-10-10
+ACC-00853,Bishop and Sons,Mid-Market,E-commerce,EMEA,60529.98,2025-09-09
+ACC-00854,Bell-Lewis,SMB,HR Tech,Northeast,15629.85,2025-11-30
+ACC-00855,"Hernandez, Jenkins and Parks",SMB,Cybersecurity,EMEA,10029.01,2024-02-11
+ACC-00856,Miller Inc,SMB,InsurTech,Northeast,10211.13,2025-08-21
+ACC-00857,Goodwin PLC,Mid-Market,FinTech,Northeast,55311.54,2024-06-07
+ACC-00858,"Cruz, Richmond and Edwards",SMB,E-commerce,EMEA,8864.54,2025-10-02
+ACC-00859,Wright Ltd,Mid-Market,Legal Tech,South,76344.03,2025-07-17
+ACC-00860,Wright PLC,SMB,E-commerce,EMEA,11739.35,2024-07-07
+ACC-00861,"Griffith, Mitchell and Pugh",SMB,InsurTech,Midwest,15070.83,2025-07-03
+ACC-00862,Abbott Ltd,SMB,E-commerce,Midwest,23017.74,2025-11-10
+ACC-00863,Harris-Lawson,SMB,E-commerce,Northeast,11713.57,2026-02-09
+ACC-00864,Adkins LLC,Mid-Market,Logistics,EMEA,78539.75,2025-10-26
+ACC-00865,"Brown, Hurst and Blevins",SMB,E-commerce,South,12085.91,2025-10-19
+ACC-00866,Cruz-Allen,Mid-Market,Data Infrastructure,Midwest,87328.29,2025-11-29
+ACC-00867,"Wheeler, Rice and Levine",Enterprise,EdTech,West,209621.54,2025-07-07
+ACC-00868,Peck-Anderson,Mid-Market,FinTech,EMEA,78437.09,2025-01-18
+ACC-00869,"Fisher, Payne and Thompson",SMB,InsurTech,South,16275.68,2024-10-30
+ACC-00870,Best-Townsend,Enterprise,HR Tech,Northeast,249307.36,2024-04-08
+ACC-00871,Matthews Inc,SMB,InsurTech,EMEA,8124.62,2024-03-08
+ACC-00872,Lewis-Livingston,SMB,HR Tech,South,22206.31,2024-07-29
+ACC-00873,Hunter-Fuller,SMB,EdTech,West,20697.14,2024-06-06
+ACC-00874,"Wang, Henderson and Morales",SMB,E-commerce,West,9487.86,2024-02-25
+ACC-00875,"Herrera, Jensen and Ramirez",SMB,Legal Tech,EMEA,9197.52,2026-04-21
+ACC-00876,Miller-Mccall,SMB,Legal Tech,South,14596.55,2025-10-07
+ACC-00877,Herrera Group,SMB,E-commerce,West,14621.53,2024-05-01
+ACC-00878,"Walters, Davenport and Becker",SMB,Data Infrastructure,West,20851.33,2025-08-22
+ACC-00879,Collins Group,SMB,HealthTech,Northeast,23776.81,2024-04-18
+ACC-00880,"Ashley, Allen and Sanchez",SMB,Legal Tech,EMEA,9470.59,2026-02-22
+ACC-00881,Wilson-Salazar,Enterprise,EdTech,South,344857.93,2024-02-01
+ACC-00882,Parker Ltd,SMB,InsurTech,Midwest,10318.48,2025-02-04
+ACC-00883,"Yang, Wilson and Zimmerman",Mid-Market,InsurTech,Northeast,87408.73,2024-05-27
+ACC-00884,"Smith, Crawford and Reed",SMB,E-commerce,West,17409.91,2025-07-22
+ACC-00885,"Logan, Le and Jackson",SMB,FinTech,West,17736.22,2025-02-07
+ACC-00886,Brady LLC,SMB,HealthTech,Northeast,11570.9,2026-01-29
+ACC-00887,"Tanner, Wise and Johnson",Enterprise,E-commerce,Midwest,217922.89,2025-10-23
+ACC-00888,Nelson-Brown,Mid-Market,Cybersecurity,Midwest,36959.53,2025-09-23
+ACC-00889,"Proctor, Burton and Crawford",Mid-Market,HR Tech,West,36788.27,2026-03-29
+ACC-00890,"Ward, Porter and Bradley",Mid-Market,FinTech,EMEA,54982.24,2025-07-16
+ACC-00891,Moore-Ayala,SMB,HealthTech,Northeast,9669.44,2026-01-13
+ACC-00892,"Craig, Wilson and Yang",Mid-Market,E-commerce,Northeast,33333.98,2025-11-02
+ACC-00893,Williams Inc,SMB,Legal Tech,EMEA,9186.75,2024-07-17
+ACC-00894,Williams LLC,SMB,Logistics,Northeast,18477.82,2024-11-09
+ACC-00895,Mora-White,Mid-Market,Cybersecurity,EMEA,61846.02,2026-04-07
+ACC-00896,Tran Ltd,SMB,EdTech,Midwest,8082.14,2024-09-09
+ACC-00897,"Rios, Walker and Wright",Mid-Market,EdTech,Northeast,79607.15,2024-05-17
+ACC-00898,"Flores, Mckenzie and Duncan",Mid-Market,E-commerce,South,55085.14,2025-01-02
+ACC-00899,Shaw Inc,Mid-Market,Logistics,EMEA,32074.12,2025-10-23
+ACC-00900,Walker PLC,Mid-Market,Legal Tech,Midwest,82934.31,2024-07-20
+ACC-00901,Finley Inc,SMB,HealthTech,West,23165.79,2026-05-19
+ACC-00902,Cline-Ayala,SMB,FinTech,EMEA,17841.31,2026-02-26
+ACC-00903,Murphy-Tran,Mid-Market,FinTech,EMEA,41940.06,2025-07-06
+ACC-00904,Wood LLC,SMB,Cybersecurity,Northeast,14672.47,2026-03-01
+ACC-00905,"Mueller, Stevenson and Sanchez",Mid-Market,Legal Tech,Midwest,55205.57,2025-06-06
+ACC-00906,Vargas-Snyder,SMB,E-commerce,EMEA,8180.06,2024-09-01
+ACC-00907,Oconnor PLC,Mid-Market,Data Infrastructure,Midwest,74218.39,2024-05-23
+ACC-00908,Hernandez Group,SMB,Cybersecurity,EMEA,24128.1,2025-11-06
+ACC-00909,Hall LLC,Enterprise,Cybersecurity,South,381144.33,2024-02-11
+ACC-00910,"Franco, Wiley and Tapia",SMB,Logistics,Midwest,9068.64,2025-01-13
+ACC-00911,Blake Group,SMB,HR Tech,EMEA,23431.34,2025-01-04
+ACC-00912,"Acosta, Garcia and Moreno",SMB,Logistics,West,8678.38,2025-10-26
+ACC-00913,Barnes Inc,SMB,InsurTech,Northeast,22192.83,2024-09-26
+ACC-00914,Dawson Inc,Mid-Market,Data Infrastructure,Midwest,49482.87,2025-01-22
+ACC-00915,Morse PLC,SMB,HealthTech,EMEA,12276.97,2024-08-16
+ACC-00916,Haynes-Watson,SMB,E-commerce,Northeast,16276.65,2025-05-08
+ACC-00917,"Miller, Davis and Anderson",Enterprise,FinTech,EMEA,363430.62,2025-03-26
+ACC-00918,Jones-Bradley,SMB,HealthTech,EMEA,18939.11,2024-08-04
+ACC-00919,Bates-Anderson,SMB,Cybersecurity,Northeast,18234.34,2026-04-16
+ACC-00920,Green-Edwards,SMB,HR Tech,South,21789.93,2026-01-07
+ACC-00921,Haynes-Moss,SMB,Logistics,South,11581.97,2024-06-14
+ACC-00922,Chavez-Hall,Mid-Market,EdTech,West,40838.57,2024-05-10
+ACC-00923,Taylor PLC,Mid-Market,Cybersecurity,Midwest,65920.13,2024-02-10
+ACC-00924,Moore and Sons,Enterprise,Cybersecurity,West,141565.82,2024-07-03
+ACC-00925,Owens-Russell,SMB,EdTech,EMEA,24477.14,2025-10-14
+ACC-00926,"Howard, Townsend and Hayes",SMB,Legal Tech,West,11682.09,2025-09-13
+ACC-00927,Baker-Wilson,Enterprise,Logistics,Midwest,158002.78,2025-02-24
+ACC-00928,Aguirre LLC,Mid-Market,Data Infrastructure,Midwest,65508.76,2025-06-07
+ACC-00929,"Terry, Williams and Huff",SMB,E-commerce,South,18141.07,2024-03-11
+ACC-00930,Hernandez-Dawson,SMB,EdTech,Midwest,9845.69,2024-07-26
+ACC-00931,Foster-Williams,SMB,InsurTech,South,22050.74,2025-09-12
+ACC-00932,Green-Ewing,SMB,Logistics,EMEA,18196.83,2026-03-13
+ACC-00933,Crane Group,SMB,HealthTech,West,16198.1,2024-05-13
+ACC-00934,"Adkins, Wright and Murray",Enterprise,InsurTech,West,368060.38,2026-03-04
+ACC-00935,Martinez Inc,Mid-Market,EdTech,EMEA,52344.46,2024-02-14
+ACC-00936,Anderson Group,Mid-Market,EdTech,Midwest,85997.41,2025-05-08
+ACC-00937,Parks-Pace,Mid-Market,EdTech,Northeast,63288.13,2026-01-29
+ACC-00938,Aguilar LLC,Enterprise,Data Infrastructure,West,221901.71,2024-09-17
+ACC-00939,Johnson Inc,SMB,HR Tech,West,12815.53,2025-07-10
+ACC-00940,Orr Group,SMB,HR Tech,West,20055.53,2026-03-19
+ACC-00941,Davis LLC,SMB,InsurTech,West,16835.95,2025-01-19
+ACC-00942,Williams Group,Mid-Market,E-commerce,South,48547.54,2024-06-07
+ACC-00943,Jackson PLC,SMB,Data Infrastructure,Northeast,12442.15,2025-07-02
+ACC-00944,Underwood-Foster,SMB,E-commerce,EMEA,12684.53,2025-11-27
+ACC-00945,Reyes Group,SMB,HR Tech,South,17385.78,2025-07-24
+ACC-00946,Gomez and Sons,SMB,E-commerce,EMEA,17433.49,2024-09-16
+ACC-00947,Ramirez-Stephenson,Enterprise,Data Infrastructure,Northeast,330000.29,2025-02-11
+ACC-00948,Mendez PLC,Mid-Market,HealthTech,Midwest,54028.67,2025-12-17
+ACC-00949,Holland Group,Enterprise,HealthTech,Midwest,247586.5,2026-03-15
+ACC-00950,Andrade-Mendoza,SMB,InsurTech,EMEA,19849.98,2025-12-24
+ACC-00951,Ramirez and Sons,SMB,EdTech,West,21674.28,2026-04-23
+ACC-00952,Gonzalez-Wilkerson,SMB,Data Infrastructure,South,9498.39,2024-09-26
+ACC-00953,"Wright, Mcknight and Stephens",SMB,HealthTech,EMEA,8641.84,2025-01-28
+ACC-00954,Mayo Ltd,Enterprise,EdTech,EMEA,293414.32,2024-10-20
+ACC-00955,Castillo-Harrington,Mid-Market,Data Infrastructure,West,86471.53,2026-04-19
+ACC-00956,Durham-Shaw,SMB,Logistics,South,8182.08,2026-05-20
+ACC-00957,Nelson-Johnson,Mid-Market,InsurTech,Northeast,37658.52,2026-03-13
+ACC-00958,"Robinson, Huang and Osborne",Mid-Market,InsurTech,Midwest,64987.35,2025-11-21
+ACC-00959,Stokes Group,SMB,HR Tech,West,24585.98,2024-03-29
+ACC-00960,"Howard, Silva and Hall",Enterprise,EdTech,Northeast,297595.23,2025-02-19
+ACC-00961,Garcia Ltd,Mid-Market,InsurTech,West,72900.16,2024-03-11
+ACC-00962,Adams Ltd,Enterprise,InsurTech,Northeast,315103.0,2025-07-26
+ACC-00963,Gallagher and Sons,Enterprise,E-commerce,Northeast,388619.18,2024-10-10
+ACC-00964,"Bradford, Salinas and Kelly",SMB,HR Tech,South,23805.14,2025-08-11
+ACC-00965,Thompson PLC,SMB,Cybersecurity,South,16606.05,2025-07-26
+ACC-00966,Drake-Wolfe,SMB,Legal Tech,Northeast,24099.26,2026-04-02
+ACC-00967,"Johnson, Haynes and Meza",SMB,Legal Tech,EMEA,21823.5,2025-08-11
+ACC-00968,"Thomas, Vaughan and Copeland",SMB,Logistics,South,17573.87,2026-02-27
+ACC-00969,Weaver-Thompson,SMB,E-commerce,South,19587.11,2025-08-23
+ACC-00970,Davis and Sons,Mid-Market,Logistics,West,41758.28,2025-01-26
+ACC-00971,"Robinson, Fox and Smith",Mid-Market,HR Tech,Midwest,77010.49,2025-02-26
+ACC-00972,"Harris, Anderson and Love",Enterprise,InsurTech,EMEA,93014.19,2026-05-02
+ACC-00973,Brown-Hernandez,SMB,Legal Tech,West,14781.82,2026-02-05
+ACC-00974,"Stark, Schroeder and Mathis",Mid-Market,HealthTech,EMEA,85540.76,2025-05-02
+ACC-00975,Yu-Brooks,SMB,HR Tech,EMEA,12574.29,2026-02-03
+ACC-00976,"Foster, Garcia and Turner",Mid-Market,HR Tech,South,72912.3,2024-08-28
+ACC-00977,Daugherty Ltd,Mid-Market,Legal Tech,Midwest,39898.49,2026-05-04
+ACC-00978,Conner-Yu,SMB,Data Infrastructure,Northeast,10651.92,2024-04-19
+ACC-00979,"Stewart, Mann and Hoffman",SMB,HealthTech,South,18435.06,2026-02-21
+ACC-00980,"Buchanan, Walker and Chapman",Mid-Market,FinTech,South,49127.77,2024-11-18
+ACC-00981,Gray Ltd,SMB,Data Infrastructure,Northeast,16343.69,2026-02-21
+ACC-00982,"Phillips, Thompson and Smith",Enterprise,Legal Tech,South,158848.76,2025-08-13
+ACC-00983,"Fry, Myers and Gamble",SMB,InsurTech,South,16131.44,2025-07-07
+ACC-00984,"Johnson, Guzman and Mccall",SMB,E-commerce,South,22626.8,2026-03-05
+ACC-00985,"Walker, Cunningham and Zuniga",SMB,HealthTech,EMEA,15821.2,2025-12-06
+ACC-00986,Rivera Inc,SMB,HR Tech,South,17877.14,2024-11-29
+ACC-00987,Reed LLC,SMB,Legal Tech,Midwest,17325.58,2024-08-30
+ACC-00988,Fields Inc,SMB,Data Infrastructure,Northeast,14220.71,2025-05-25
+ACC-00989,"Santiago, Daniel and Rogers",SMB,EdTech,Northeast,14206.33,2025-02-14
+ACC-00990,Baker and Sons,SMB,Cybersecurity,EMEA,10229.37,2025-08-12
+ACC-00991,"Jones, Scott and Rodriguez",Mid-Market,HealthTech,Northeast,77265.69,2025-07-22
+ACC-00992,Williams Group,SMB,EdTech,Midwest,10479.34,2026-01-26
+ACC-00993,"Barnes, Jackson and Gutierrez",SMB,FinTech,Midwest,15165.85,2024-05-17
+ACC-00994,Bell-Bennett,Enterprise,InsurTech,EMEA,313373.7,2026-03-15
+ACC-00995,Kramer-Lane,SMB,Legal Tech,EMEA,22594.53,2024-02-18
+ACC-00996,"Perez, Hayes and Lloyd",SMB,Cybersecurity,West,11662.94,2024-09-17
+ACC-00997,Phillips LLC,SMB,HealthTech,South,20658.08,2024-09-23
+ACC-00998,Lynn-Jones,SMB,InsurTech,EMEA,23841.36,2024-09-20
+ACC-00999,Barron and Sons,SMB,EdTech,West,13968.54,2025-11-26
+ACC-01000,"Jones, Mcmahon and Spence",Enterprise,HR Tech,EMEA,268527.28,2025-10-26
+ACC-01001,Wheeler-Austin,SMB,Legal Tech,Northeast,13526.53,2025-06-06
+ACC-01002,Bush-Reynolds,SMB,Logistics,West,14478.21,2024-10-20
+ACC-01003,"Martin, Preston and Moore",SMB,Cybersecurity,Midwest,18889.87,2024-12-11
+ACC-01004,Rivera and Sons,SMB,Data Infrastructure,EMEA,14881.14,2024-03-14
+ACC-01005,Terry-Bowen,SMB,E-commerce,Midwest,13329.2,2025-10-30
+ACC-01006,"Fernandez, Guerrero and Evans",SMB,Legal Tech,EMEA,18958.95,2024-10-04
+ACC-01007,Williams PLC,Enterprise,E-commerce,EMEA,251490.06,2025-04-06
+ACC-01008,"Larsen, Hernandez and Ward",SMB,Cybersecurity,West,10125.68,2024-08-28
+ACC-01009,Miller-Colon,Mid-Market,HealthTech,Midwest,35849.18,2024-04-15
+ACC-01010,"Greene, Gonzalez and Johnson",SMB,Logistics,EMEA,8915.03,2026-02-28
+ACC-01011,Little Inc,SMB,HealthTech,West,12461.69,2024-06-08
+ACC-01012,Anthony-Parker,SMB,EdTech,Northeast,11899.05,2026-01-25
+ACC-01013,Ruiz-Jacobson,SMB,Cybersecurity,Midwest,16954.62,2024-06-23
+ACC-01014,Davis-Stephens,SMB,E-commerce,Northeast,22692.1,2025-04-23
+ACC-01015,Watson Group,Enterprise,InsurTech,Northeast,260049.04,2024-05-18
+ACC-01016,Lopez-Williams,Enterprise,InsurTech,Midwest,273157.59,2025-04-12
+ACC-01017,Marshall-Perez,Mid-Market,Data Infrastructure,South,59024.89,2025-10-16
+ACC-01018,Elliott-Hernandez,SMB,E-commerce,South,17174.36,2026-04-04
+ACC-01019,"Contreras, Miller and Cooper",SMB,Legal Tech,Northeast,15007.46,2024-06-08
+ACC-01020,"Gutierrez, Avila and Perez",SMB,FinTech,EMEA,21861.46,2026-05-18
+ACC-01021,Randall PLC,SMB,Legal Tech,South,17096.68,2025-12-05
+ACC-01022,Sheppard-Mcdaniel,Enterprise,Logistics,Northeast,92831.11,2025-03-16
+ACC-01023,Armstrong-Young,Mid-Market,Data Infrastructure,Midwest,76789.88,2025-07-15
+ACC-01024,Miller-Orr,SMB,EdTech,EMEA,15430.81,2024-09-12
+ACC-01025,"Johnson, Duncan and Black",SMB,EdTech,South,11750.07,2024-03-22
+ACC-01026,"Byrd, Oliver and Martinez",SMB,HR Tech,EMEA,20997.15,2025-09-19
+ACC-01027,Thompson-Joyce,Mid-Market,Legal Tech,Northeast,67149.71,2025-06-28
+ACC-01028,Stokes and Sons,Mid-Market,EdTech,Midwest,80476.33,2024-07-05
+ACC-01029,Henderson Ltd,SMB,HealthTech,South,18501.4,2024-10-05
+ACC-01030,Harris-Carson,Mid-Market,Logistics,Midwest,45841.84,2024-06-04
+ACC-01031,Flowers LLC,SMB,InsurTech,West,11160.94,2024-04-14
+ACC-01032,Bartlett-Sloan,SMB,Cybersecurity,South,20360.82,2024-08-26
+ACC-01033,Miller PLC,SMB,FinTech,South,11692.2,2025-03-06
+ACC-01034,Arnold-Gates,SMB,Logistics,Northeast,15882.64,2026-03-21
+ACC-01035,"Ellis, Marks and Buchanan",SMB,HealthTech,Midwest,8952.65,2026-03-05
+ACC-01036,"Matthews, Harrington and Rodriguez",SMB,InsurTech,South,11087.26,2026-05-11
+ACC-01037,Hernandez PLC,SMB,EdTech,West,10073.35,2026-02-25
+ACC-01038,"Chang, Ayers and Buckley",Mid-Market,EdTech,South,41065.54,2024-02-04
+ACC-01039,"Chan, Floyd and Dillon",SMB,HealthTech,EMEA,19322.13,2024-08-01
+ACC-01040,Humphrey-Baker,SMB,Legal Tech,Northeast,10696.39,2026-01-15
+ACC-01041,"Washington, Lynch and Johnson",SMB,InsurTech,EMEA,10076.41,2025-05-07
+ACC-01042,Powell-Montgomery,Mid-Market,HR Tech,Northeast,82688.77,2025-11-13
+ACC-01043,"Steele, Williams and Preston",SMB,HealthTech,Midwest,18759.45,2024-11-28
+ACC-01044,Vaughn-Williams,SMB,Legal Tech,EMEA,10034.04,2026-03-19
+ACC-01045,Mccall-Prince,SMB,FinTech,EMEA,21319.08,2025-05-01
+ACC-01046,Morgan LLC,Mid-Market,Cybersecurity,Northeast,75101.81,2024-09-11
+ACC-01047,Ramirez-Vasquez,SMB,HealthTech,EMEA,13753.18,2026-02-16
+ACC-01048,"Cohen, Compton and Perez",Mid-Market,FinTech,Northeast,66897.37,2025-12-19
+ACC-01049,Mccann-Ramos,SMB,HealthTech,Midwest,16293.33,2024-11-20
+ACC-01050,Adams-Butler,Enterprise,E-commerce,South,317288.54,2024-01-22
+ACC-01051,"Davis, Alexander and Mcintyre",Mid-Market,E-commerce,Midwest,41295.26,2024-02-10
+ACC-01052,Figueroa-Malone,SMB,Logistics,EMEA,13010.15,2025-12-14
+ACC-01053,Nicholson-Robertson,SMB,Data Infrastructure,Midwest,17241.55,2024-11-27
+ACC-01054,Jones Ltd,Mid-Market,Legal Tech,EMEA,84440.81,2025-07-21
+ACC-01055,"Powell, Deleon and Warren",SMB,InsurTech,Midwest,15639.53,2026-04-19
+ACC-01056,"Johnson, Lee and Whitaker",SMB,E-commerce,South,8012.24,2025-10-15
+ACC-01057,Wright Group,SMB,Cybersecurity,West,18535.49,2025-01-07
+ACC-01058,Hull Ltd,Mid-Market,HR Tech,Northeast,71865.23,2025-11-05
+ACC-01059,Hill Group,Enterprise,EdTech,Midwest,252461.63,2025-05-24
+ACC-01060,"Sanders, Leblanc and Maldonado",Mid-Market,Cybersecurity,EMEA,43403.39,2025-02-23
+ACC-01061,Watson PLC,Mid-Market,HealthTech,West,59008.04,2024-03-09
+ACC-01062,Thompson-Harrell,SMB,Cybersecurity,Midwest,22849.38,2024-07-25
+ACC-01063,"Arnold, Cooper and Monroe",SMB,HR Tech,West,8540.89,2025-10-19
+ACC-01064,Curry-Barker,Mid-Market,Logistics,EMEA,65558.08,2025-08-27
+ACC-01065,Johnson-Williams,SMB,E-commerce,Midwest,18301.21,2024-03-13
+ACC-01066,"Chan, Lewis and Walker",SMB,HR Tech,South,23782.86,2026-05-02
+ACC-01067,Byrd LLC,SMB,FinTech,Northeast,17486.34,2025-03-01
+ACC-01068,"Ortiz, Smith and Deleon",Mid-Market,FinTech,EMEA,42278.02,2024-02-11
+ACC-01069,"Smith, Buck and Holland",Mid-Market,Legal Tech,West,86399.23,2025-06-15
+ACC-01070,"Owen, Walker and Franklin",SMB,HR Tech,EMEA,14550.63,2024-07-16
+ACC-01071,Marquez-Fletcher,SMB,HR Tech,EMEA,18630.53,2024-07-02
+ACC-01072,Coleman-Bennett,Mid-Market,InsurTech,South,73497.04,2026-02-23
+ACC-01073,Stevens-Robinson,Mid-Market,E-commerce,South,70665.78,2025-03-13
+ACC-01074,Byrd-Holloway,Enterprise,Cybersecurity,Midwest,260489.29,2025-05-31
+ACC-01075,Silva-Smith,SMB,Cybersecurity,EMEA,24973.37,2025-03-29
+ACC-01076,"Levy, Franco and Hoffman",Enterprise,E-commerce,EMEA,397353.53,2024-11-28
+ACC-01077,"Lynch, Evans and Rodriguez",Mid-Market,EdTech,South,78700.07,2024-11-27
+ACC-01078,Rogers LLC,Mid-Market,Data Infrastructure,EMEA,38905.33,2026-02-23
+ACC-01079,"Nguyen, Hill and Douglas",Mid-Market,Legal Tech,Northeast,87507.37,2025-04-03
+ACC-01080,"Evans, Hernandez and Cannon",Enterprise,FinTech,West,394716.51,2025-09-02
+ACC-01081,Trujillo PLC,SMB,Cybersecurity,Northeast,8111.67,2024-08-15
+ACC-01082,Guerrero-Becker,SMB,E-commerce,West,21115.89,2025-12-07
+ACC-01083,"Johnson, Jimenez and Phillips",Mid-Market,InsurTech,EMEA,61161.0,2025-08-08
+ACC-01084,Sullivan-Doyle,SMB,FinTech,South,14046.15,2024-05-21
+ACC-01085,"Erickson, Armstrong and Lee",SMB,Data Infrastructure,Midwest,11960.9,2026-04-10
+ACC-01086,"Reeves, Parks and Little",SMB,Data Infrastructure,South,17674.1,2024-08-10
+ACC-01087,Knox-Powers,Mid-Market,E-commerce,South,36238.66,2026-04-25
+ACC-01088,"Evans, Jackson and Sandoval",Enterprise,Data Infrastructure,West,274521.67,2024-11-03
+ACC-01089,"White, Davis and Anderson",SMB,Data Infrastructure,South,9334.12,2024-02-27
+ACC-01090,Hardy-Hansen,Enterprise,E-commerce,Northeast,362735.68,2025-03-20
+ACC-01091,Arroyo LLC,SMB,HealthTech,Midwest,20710.54,2026-05-19
+ACC-01092,"Davis, Kelly and Garner",Mid-Market,FinTech,South,28518.32,2025-06-20
+ACC-01093,Fisher-Eaton,SMB,InsurTech,EMEA,10542.86,2025-05-29
+ACC-01094,Green-Carter,Mid-Market,Cybersecurity,West,68786.29,2025-02-06
+ACC-01095,Ruiz Ltd,Enterprise,Data Infrastructure,EMEA,246466.1,2024-08-15
+ACC-01096,"Carpenter, Oliver and Kennedy",SMB,EdTech,Midwest,10247.21,2024-03-25
+ACC-01097,Mason Ltd,SMB,FinTech,EMEA,14786.25,2024-03-28
+ACC-01098,Moreno-Gutierrez,SMB,EdTech,Midwest,20954.56,2025-05-07
+ACC-01099,Taylor and Sons,Mid-Market,Logistics,South,67396.15,2024-07-19
+ACC-01100,Ortiz-Hudson,Mid-Market,InsurTech,Midwest,40750.48,2024-09-29
+ACC-01101,Thomas-Huffman,Mid-Market,E-commerce,EMEA,30823.65,2025-11-18
+ACC-01102,Maxwell Group,SMB,E-commerce,Northeast,11238.33,2024-12-18
+ACC-01103,Welch-Thompson,Mid-Market,FinTech,Northeast,36001.59,2024-12-24
+ACC-01104,"Brown, Hayes and Clark",Mid-Market,Logistics,EMEA,34478.2,2024-02-15
+ACC-01105,Johnston and Sons,Enterprise,HR Tech,Midwest,302461.36,2024-06-08
+ACC-01106,Glover-Chan,Mid-Market,HealthTech,West,73072.81,2024-09-05
+ACC-01107,Mendez Ltd,Enterprise,Cybersecurity,Northeast,94257.32,2025-12-11
+ACC-01108,Powell-Sanford,Mid-Market,Legal Tech,South,55627.37,2024-12-05
+ACC-01109,Smith-Ferguson,SMB,InsurTech,Midwest,11464.62,2025-06-19
+ACC-01110,"Watson, Smith and Morris",Mid-Market,InsurTech,South,65497.73,2024-05-24
+ACC-01111,"Lee, Rhodes and Sims",Mid-Market,FinTech,South,62895.32,2025-11-10
+ACC-01112,Perez LLC,SMB,Legal Tech,Midwest,9021.87,2024-07-24
+ACC-01113,Anderson-Reyes,Mid-Market,Data Infrastructure,Northeast,28450.54,2025-11-01
+ACC-01114,"Torres, Brown and Williams",Enterprise,HealthTech,South,294715.58,2025-11-09
+ACC-01115,Bryant-Meyer,Mid-Market,E-commerce,West,26240.09,2025-10-26
+ACC-01116,"Morgan, Barron and Cowan",SMB,EdTech,EMEA,24602.4,2024-04-11
+ACC-01117,Ferrell-Henry,Enterprise,Logistics,EMEA,254783.8,2024-07-09
+ACC-01118,Martin Group,SMB,Logistics,EMEA,23747.95,2024-01-23
+ACC-01119,Perez Ltd,SMB,InsurTech,Northeast,13670.68,2025-02-06
+ACC-01120,Clark Inc,Mid-Market,FinTech,Northeast,69480.24,2024-12-29
+ACC-01121,"Wagner, Martinez and Dawson",Mid-Market,HR Tech,EMEA,42932.09,2024-03-04
+ACC-01122,Brooks Ltd,Mid-Market,EdTech,West,86368.89,2024-10-13
+ACC-01123,Wise-Dean,SMB,E-commerce,South,19167.84,2024-03-30
+ACC-01124,"Vang, Stanley and Valdez",Mid-Market,InsurTech,EMEA,81725.6,2025-12-03
+ACC-01125,Williams Inc,SMB,HR Tech,EMEA,10596.74,2024-11-15
+ACC-01126,Wallace-Martinez,Enterprise,E-commerce,South,258092.46,2024-07-30
+ACC-01127,Wells-Hernandez,Mid-Market,Data Infrastructure,EMEA,69463.16,2024-07-26
+ACC-01128,"Jennings, Smith and Fisher",Mid-Market,Legal Tech,EMEA,84121.58,2025-03-16
+ACC-01129,Bates LLC,Enterprise,Cybersecurity,EMEA,374304.76,2024-11-21
+ACC-01130,"Obrien, Taylor and Rivas",SMB,InsurTech,West,11130.3,2026-05-09
+ACC-01131,Hunt PLC,Enterprise,FinTech,Northeast,362840.89,2025-02-27
+ACC-01132,Campbell Inc,Enterprise,Legal Tech,South,321139.02,2026-04-21
+ACC-01133,Gonzalez-Gonzalez,Enterprise,Legal Tech,Midwest,331523.44,2024-04-19
+ACC-01134,Decker-Dudley,SMB,FinTech,EMEA,18488.09,2025-09-12
+ACC-01135,Warner-Phillips,Mid-Market,HR Tech,EMEA,40091.86,2025-12-04
+ACC-01136,Kelley and Sons,SMB,HealthTech,South,10279.47,2026-05-16
+ACC-01137,"Fitzpatrick, Rivera and Smith",Mid-Market,E-commerce,Midwest,80388.41,2025-05-18
+ACC-01138,"Davis, Rodriguez and Andrews",SMB,Cybersecurity,Midwest,11846.64,2025-02-22
+ACC-01139,Hernandez-Davis,Mid-Market,FinTech,Northeast,86762.87,2024-08-15
+ACC-01140,"Jones, Cummings and Conway",Mid-Market,HR Tech,Midwest,29298.86,2025-03-25
+ACC-01141,"Hall, Hinton and Phillips",Mid-Market,Logistics,Northeast,81340.37,2024-09-09
+ACC-01142,Williams-Li,SMB,FinTech,EMEA,20500.64,2025-01-24
+ACC-01143,Phelps LLC,Mid-Market,EdTech,EMEA,86044.04,2025-08-08
+ACC-01144,"Edwards, Rodgers and Davis",Mid-Market,InsurTech,West,58842.19,2025-04-07
+ACC-01145,Smith and Sons,SMB,FinTech,Midwest,16817.95,2025-02-09
+ACC-01146,"Holland, Murphy and Kline",Enterprise,FinTech,EMEA,210093.33,2026-02-22
+ACC-01147,"Adams, Quinn and Watson",Mid-Market,FinTech,Midwest,43926.66,2025-02-11
+ACC-01148,White-Morales,Enterprise,Legal Tech,South,141610.85,2024-10-28
+ACC-01149,Nelson-Cruz,Mid-Market,FinTech,EMEA,83738.92,2025-04-19
+ACC-01150,Marsh-Banks,Mid-Market,Logistics,West,71972.04,2024-04-25
+ACC-01151,Wilson Ltd,SMB,Data Infrastructure,EMEA,10300.21,2025-02-27
+ACC-01152,"Brown, Dunlap and Moore",SMB,FinTech,Midwest,15712.57,2025-12-30
+ACC-01153,Pruitt-Webb,Enterprise,Logistics,West,167525.51,2025-12-09
+ACC-01154,"Gregory, White and James",Mid-Market,Cybersecurity,West,30927.43,2025-12-24
+ACC-01155,Carr-Huffman,SMB,E-commerce,West,16904.89,2025-01-28
+ACC-01156,"Mcpherson, Anderson and Knapp",Mid-Market,InsurTech,EMEA,86734.0,2025-01-22
+ACC-01157,Clay Group,Mid-Market,FinTech,Midwest,84296.43,2025-08-02
+ACC-01158,Brown Ltd,Enterprise,Cybersecurity,Midwest,359333.75,2024-07-02
+ACC-01159,Smith-Oneill,Mid-Market,FinTech,South,45024.04,2026-01-17
+ACC-01160,"Saunders, Ray and Cunningham",Mid-Market,Logistics,Northeast,65719.44,2024-04-30
+ACC-01161,"Marks, Stone and Watts",Enterprise,HR Tech,West,282993.7,2024-09-16
+ACC-01162,"Davis, Stanley and Wright",SMB,Logistics,South,17239.52,2024-01-06
+ACC-01163,Alvarado-Davidson,Mid-Market,Logistics,Midwest,39096.8,2025-11-06
+ACC-01164,Combs PLC,SMB,EdTech,South,9349.88,2025-09-06
+ACC-01165,"Brown, Schneider and Moore",SMB,InsurTech,Northeast,18536.02,2025-07-24
+ACC-01166,Christian-Booth,Mid-Market,HR Tech,West,37014.6,2024-02-26
+ACC-01167,Walton LLC,Mid-Market,FinTech,Midwest,80498.9,2025-11-14
+ACC-01168,Rivera LLC,Mid-Market,Data Infrastructure,Northeast,46522.22,2024-03-30
+ACC-01169,Hunter PLC,SMB,EdTech,Midwest,10742.7,2024-10-18
+ACC-01170,"Gray, Montoya and Miller",Mid-Market,Data Infrastructure,EMEA,76174.99,2024-06-30
+ACC-01171,Solis-West,Enterprise,Data Infrastructure,Northeast,378758.74,2024-04-05
+ACC-01172,West-Wilson,Mid-Market,E-commerce,Northeast,83339.44,2026-04-19
+ACC-01173,Mcgee-Smith,SMB,EdTech,EMEA,9103.74,2025-04-27
+ACC-01174,Gutierrez-Hawkins,SMB,Legal Tech,Northeast,16959.9,2025-06-21
+ACC-01175,Petersen PLC,SMB,HR Tech,EMEA,8989.14,2025-08-08
+ACC-01176,"Walsh, Wu and Hart",Mid-Market,InsurTech,West,56438.09,2025-12-06
+ACC-01177,"Powers, Clements and Cox",Mid-Market,Legal Tech,South,64574.9,2024-11-20
+ACC-01178,Velasquez Group,SMB,Data Infrastructure,EMEA,14015.51,2024-05-12
+ACC-01179,Castro-Harvey,Mid-Market,Logistics,EMEA,72397.01,2025-05-24
+ACC-01180,Moran-Cox,SMB,Cybersecurity,EMEA,11956.27,2024-10-24
+ACC-01181,Wilson-Malone,Enterprise,FinTech,West,97435.91,2025-10-02
+ACC-01182,Smith LLC,Mid-Market,HR Tech,EMEA,89934.16,2025-02-27
+ACC-01183,"Brandt, Carter and Boyd",SMB,E-commerce,EMEA,21702.74,2024-08-05
+ACC-01184,"Rodriguez, Prince and Vasquez",SMB,HR Tech,Northeast,12325.1,2024-03-10
+ACC-01185,"Newton, Ortiz and King",SMB,InsurTech,EMEA,13506.71,2024-01-07
+ACC-01186,Lopez Group,SMB,E-commerce,Northeast,14732.84,2025-08-05
+ACC-01187,Bryant and Sons,Mid-Market,FinTech,Midwest,37611.01,2026-05-03
+ACC-01188,"Morgan, Sherman and Williams",SMB,Logistics,South,21553.32,2025-10-23
+ACC-01189,"Monroe, Chapman and Barton",SMB,Cybersecurity,South,23164.99,2025-07-03
+ACC-01190,Ellis-Lawrence,Enterprise,Logistics,South,377614.89,2024-02-27
+ACC-01191,"Taylor, Porter and Moreno",Mid-Market,Legal Tech,EMEA,72122.67,2024-11-19
+ACC-01192,Tran Group,Mid-Market,FinTech,Midwest,62530.85,2024-12-05
+ACC-01193,"Webb, Romero and Morse",Mid-Market,E-commerce,West,88024.86,2024-10-14
+ACC-01194,Holt and Sons,Mid-Market,E-commerce,South,65723.21,2026-05-12
+ACC-01195,"Ochoa, Garcia and Sandoval",SMB,Data Infrastructure,South,11185.44,2024-04-29
+ACC-01196,"Andrade, Gordon and Cruz",Mid-Market,Legal Tech,Northeast,71139.6,2024-10-05
+ACC-01197,"Moon, Farmer and Hill",SMB,Logistics,Midwest,14316.92,2026-04-29
+ACC-01198,Waller-Chavez,Enterprise,HR Tech,EMEA,183718.67,2024-04-24
+ACC-01199,Taylor PLC,SMB,FinTech,Midwest,23527.02,2025-03-30
+ACC-01200,"Tanner, Hunt and Cameron",SMB,Logistics,EMEA,10619.32,2024-12-14
+ACC-01201,"Valencia, Joseph and Walls",Enterprise,InsurTech,Northeast,330415.29,2024-05-26
+ACC-01202,"Robinson, Clark and Klein",Mid-Market,HealthTech,EMEA,68986.62,2024-05-15
+ACC-01203,"Reed, Chambers and Zavala",SMB,FinTech,South,14589.0,2025-06-18
+ACC-01204,"Hester, Thompson and Daniels",SMB,Legal Tech,West,19679.89,2025-08-31
+ACC-01205,"Morris, Wilson and Bell",Enterprise,E-commerce,South,365647.62,2024-04-15
+ACC-01206,Aguilar-Bender,SMB,Legal Tech,West,17818.52,2024-11-15
+ACC-01207,"Butler, Adkins and Skinner",Mid-Market,HR Tech,Northeast,38036.11,2024-10-20
+ACC-01208,Rich-Henderson,SMB,E-commerce,South,19409.11,2024-10-06
+ACC-01209,Mills Inc,SMB,Legal Tech,West,8259.36,2025-09-29
+ACC-01210,Thomas-Santiago,Mid-Market,HealthTech,Midwest,60264.37,2025-07-16
+ACC-01211,Adams and Sons,SMB,Cybersecurity,Northeast,17759.41,2024-06-24
+ACC-01212,Vega-Thomas,SMB,Data Infrastructure,Northeast,17189.81,2024-02-21
+ACC-01213,Vaughn LLC,SMB,Logistics,West,9800.76,2024-02-25
+ACC-01214,Molina Inc,SMB,EdTech,Midwest,19979.52,2025-08-29
+ACC-01215,Cervantes-Garcia,Mid-Market,Logistics,EMEA,48115.58,2024-12-06
+ACC-01216,"Stevenson, Hancock and Newton",Mid-Market,InsurTech,West,88289.32,2026-02-12
+ACC-01217,"Price, Dixon and Robles",Mid-Market,Data Infrastructure,Midwest,31039.55,2026-04-01
+ACC-01218,"Roberts, Beck and House",Enterprise,Logistics,West,231231.09,2025-12-01
+ACC-01219,Butler-French,Mid-Market,Logistics,South,40060.12,2024-08-17
+ACC-01220,"Edwards, Arnold and Smith",SMB,Data Infrastructure,Northeast,23518.65,2025-02-05
+ACC-01221,Harris-Melton,SMB,E-commerce,Northeast,15705.81,2024-01-31
+ACC-01222,Greer-Pruitt,SMB,HealthTech,Northeast,16137.09,2026-05-16
+ACC-01223,"Mckinney, Richardson and Chapman",SMB,E-commerce,EMEA,17769.53,2025-06-04
+ACC-01224,"Morrison, Parsons and Brandt",SMB,HealthTech,Northeast,17454.55,2024-03-13
+ACC-01225,Cole-Lucero,Mid-Market,InsurTech,South,51053.07,2025-02-27
+ACC-01226,Lopez and Sons,SMB,HR Tech,EMEA,10703.34,2025-05-08
+ACC-01227,"Palmer, Bennett and Patterson",SMB,E-commerce,Midwest,21836.57,2025-08-28
+ACC-01228,"Baker, Martin and Singleton",SMB,EdTech,EMEA,21384.56,2025-07-11
+ACC-01229,Rivera Ltd,Mid-Market,Cybersecurity,West,73058.86,2025-12-29
+ACC-01230,Williams LLC,Mid-Market,Logistics,West,63490.6,2025-04-19
+ACC-01231,"Williams, Randolph and Gilbert",SMB,HealthTech,South,10994.96,2025-02-19
+ACC-01232,"Turner, Tyler and Pierce",SMB,HealthTech,EMEA,21112.84,2025-01-23
+ACC-01233,Bowers LLC,SMB,FinTech,West,11699.4,2024-05-22
+ACC-01234,"Robinson, White and Jones",Enterprise,FinTech,Midwest,294873.23,2025-04-08
+ACC-01235,"Moore, Daniels and Powell",SMB,EdTech,EMEA,17824.83,2024-07-19
+ACC-01236,Walker-Lewis,SMB,E-commerce,Northeast,17694.7,2025-11-26
+ACC-01237,Rivera-Carter,SMB,EdTech,Northeast,24834.92,2025-08-19
+ACC-01238,"Moreno, Barajas and Colon",SMB,InsurTech,South,22409.82,2026-05-22
+ACC-01239,"Smith, Caldwell and Griffin",SMB,E-commerce,EMEA,24454.29,2024-01-01
+ACC-01240,"Austin, Oliver and Haley",Mid-Market,E-commerce,West,80981.11,2024-02-01
+ACC-01241,"Blackwell, James and Hogan",SMB,Data Infrastructure,South,18628.64,2025-12-29
+ACC-01242,Cruz PLC,SMB,EdTech,South,17267.02,2025-11-09
+ACC-01243,"Campbell, Pruitt and Short",SMB,Cybersecurity,Midwest,17442.17,2026-05-13
+ACC-01244,Robertson-Hicks,Enterprise,EdTech,Midwest,179425.97,2025-11-17
+ACC-01245,Williams-Villanueva,SMB,FinTech,West,19022.62,2024-05-27
+ACC-01246,Flores Inc,Mid-Market,Logistics,South,88373.38,2024-05-19
+ACC-01247,Jackson PLC,SMB,EdTech,South,23190.9,2025-12-13
+ACC-01248,"Smith, Jones and Santiago",Mid-Market,EdTech,EMEA,36686.83,2025-06-05
+ACC-01249,Hancock Group,SMB,Logistics,South,14040.22,2024-07-09
+ACC-01250,Harris Ltd,SMB,FinTech,EMEA,16468.67,2026-01-18
+ACC-01251,"Rowe, Lucas and Case",SMB,InsurTech,Northeast,14984.24,2025-07-13
+ACC-01252,"Parks, Johnson and Love",Mid-Market,FinTech,West,61929.72,2025-12-22
+ACC-01253,Miller Inc,SMB,Data Infrastructure,South,24349.54,2024-03-22
+ACC-01254,Bauer PLC,SMB,InsurTech,Northeast,15903.92,2024-03-21
+ACC-01255,Andrews and Sons,SMB,Data Infrastructure,West,12168.93,2025-10-07
+ACC-01256,Russell-Hayes,Mid-Market,HealthTech,EMEA,76876.39,2024-11-15
+ACC-01257,Hamilton-Smith,Mid-Market,E-commerce,EMEA,75604.26,2025-04-25
+ACC-01258,"Wilson, Smith and Cortez",SMB,Logistics,EMEA,20474.85,2025-03-07
+ACC-01259,Avila PLC,SMB,Legal Tech,Northeast,10847.64,2025-12-12
+ACC-01260,Haynes Inc,Enterprise,Legal Tech,EMEA,170737.37,2025-10-06
+ACC-01261,Reilly-Rodriguez,SMB,Cybersecurity,EMEA,8877.54,2024-10-25
+ACC-01262,"Turner, Miller and Hubbard",Mid-Market,Data Infrastructure,West,43643.02,2024-03-25
+ACC-01263,James-Short,SMB,HealthTech,Northeast,12284.87,2025-09-22
+ACC-01264,Wells PLC,SMB,Legal Tech,West,20604.3,2025-09-10
+ACC-01265,Taylor Group,SMB,Data Infrastructure,Midwest,19205.65,2025-01-13
+ACC-01266,"Phillips, Walters and Evans",Mid-Market,Legal Tech,Midwest,56519.7,2026-03-29
+ACC-01267,"Wong, Bernard and Smith",SMB,FinTech,Northeast,24729.22,2024-05-28
+ACC-01268,"Thomas, Williams and Armstrong",Mid-Market,Cybersecurity,South,73929.48,2025-02-26
+ACC-01269,Medina-Arroyo,Mid-Market,HR Tech,South,72189.94,2024-06-20
+ACC-01270,Clark-Figueroa,SMB,E-commerce,West,18918.44,2026-02-12
+ACC-01271,"Cooper, Gutierrez and Brewer",Mid-Market,FinTech,Midwest,55160.97,2025-05-02
+ACC-01272,"Thomas, White and Jensen",SMB,InsurTech,Midwest,14456.61,2025-12-23
+ACC-01273,Lee-White,SMB,Legal Tech,Midwest,17017.52,2025-03-21
+ACC-01274,"Phelps, York and Randolph",SMB,Logistics,South,19534.39,2025-06-26
+ACC-01275,"Murray, Dunn and Roberts",Mid-Market,FinTech,West,84651.29,2025-10-14
+ACC-01276,King and Sons,SMB,EdTech,EMEA,23606.71,2026-05-28
+ACC-01277,"Carpenter, Lynn and Howard",SMB,Legal Tech,Northeast,21639.38,2024-09-18
+ACC-01278,"Rios, Garcia and Harvey",Mid-Market,EdTech,South,75254.82,2026-02-06
+ACC-01279,Stewart Group,SMB,Data Infrastructure,Midwest,16839.19,2025-11-24
+ACC-01280,Jensen-Torres,Mid-Market,Cybersecurity,Northeast,60594.82,2025-11-19
+ACC-01281,"Hernandez, Knight and Aguirre",SMB,HealthTech,West,14991.23,2025-06-21
+ACC-01282,Jackson-Edwards,SMB,Logistics,Northeast,11730.08,2024-10-17
+ACC-01283,Joseph Ltd,SMB,FinTech,West,18529.75,2024-02-28
+ACC-01284,Hill-Ward,Enterprise,HR Tech,EMEA,287805.69,2025-12-26
+ACC-01285,"Quinn, Humphrey and Ford",Enterprise,HealthTech,EMEA,130271.25,2025-11-03
+ACC-01286,Hampton-Tucker,Mid-Market,Data Infrastructure,Midwest,83240.11,2025-12-13
+ACC-01287,Thompson PLC,SMB,Legal Tech,South,19228.12,2024-03-18
+ACC-01288,Wilkinson and Sons,Mid-Market,Legal Tech,South,69994.4,2025-11-14
+ACC-01289,"Gonzalez, Gross and Sims",Mid-Market,E-commerce,Northeast,35527.79,2024-03-16
+ACC-01290,"Jones, Smith and Hunter",SMB,FinTech,South,14606.04,2024-03-02
+ACC-01291,Hess PLC,SMB,Legal Tech,Midwest,15489.77,2025-05-18
+ACC-01292,Hammond-Lewis,Enterprise,HR Tech,EMEA,211716.68,2025-10-22
+ACC-01293,Arnold PLC,SMB,Cybersecurity,EMEA,21068.02,2024-08-11
+ACC-01294,"Kennedy, Rowe and Diaz",Mid-Market,HealthTech,South,71501.02,2024-04-15
+ACC-01295,Vance PLC,SMB,HealthTech,EMEA,20368.27,2026-03-06
+ACC-01296,"Vincent, Anderson and Mason",SMB,Logistics,Midwest,19098.71,2024-01-01
+ACC-01297,Sanders PLC,Enterprise,EdTech,Northeast,136998.32,2024-12-03
+ACC-01298,Bates PLC,Enterprise,Data Infrastructure,West,249768.73,2026-02-28
+ACC-01299,"Martin, Palmer and Griffin",SMB,EdTech,South,22348.84,2026-03-10
+ACC-01300,Knight PLC,Mid-Market,HealthTech,EMEA,39680.04,2025-01-28
+ACC-01301,"Brennan, Thomas and Dennis",Enterprise,Logistics,West,265845.6,2025-01-02
+ACC-01302,Williams-Juarez,SMB,Legal Tech,South,8938.31,2025-10-24
+ACC-01303,Brown LLC,SMB,InsurTech,Northeast,9367.77,2025-04-15
+ACC-01304,Williams and Sons,Mid-Market,Legal Tech,Midwest,36480.19,2024-02-10
+ACC-01305,"Velez, Ward and Harrison",Enterprise,HR Tech,Northeast,305723.51,2024-04-19
+ACC-01306,Keith-Williams,Mid-Market,E-commerce,South,30516.06,2025-10-09
+ACC-01307,"Nguyen, Padilla and Boyd",SMB,HR Tech,Midwest,8606.87,2024-01-26
+ACC-01308,Davenport-Baker,Mid-Market,Data Infrastructure,Midwest,56800.12,2024-03-05
+ACC-01309,"Hudson, Bennett and Gray",Mid-Market,Legal Tech,South,59706.1,2026-05-04
+ACC-01310,"Valdez, Houston and Black",Mid-Market,FinTech,West,47053.53,2024-12-11
+ACC-01311,Kaufman-Walker,Mid-Market,FinTech,South,32682.16,2026-04-06
+ACC-01312,Gomez-Parrish,Mid-Market,InsurTech,South,86105.84,2025-07-03
+ACC-01313,Sparks-Eaton,SMB,Data Infrastructure,Midwest,23721.87,2024-02-07
+ACC-01314,Shaw and Sons,Mid-Market,Logistics,West,55629.28,2025-09-25
+ACC-01315,Martin-Jones,SMB,Cybersecurity,West,10928.23,2024-02-21
+ACC-01316,"Campbell, Hernandez and Moore",Enterprise,HealthTech,South,279480.03,2026-05-05
+ACC-01317,"Love, Wilson and Hall",Mid-Market,HealthTech,West,57314.33,2026-03-29
+ACC-01318,Cortez-Olson,Mid-Market,HealthTech,Midwest,52703.75,2026-04-10
+ACC-01319,Mendoza-Garza,Mid-Market,EdTech,Northeast,32852.16,2025-12-01
+ACC-01320,"Whitaker, Johnson and Williams",Mid-Market,Cybersecurity,Northeast,79367.76,2026-03-23
+ACC-01321,"Vargas, Taylor and Hunt",SMB,FinTech,EMEA,10948.61,2024-03-05
+ACC-01322,"Thomas, Jackson and Nielsen",SMB,Cybersecurity,South,10856.86,2025-01-13
+ACC-01323,"Mullen, Greene and Elliott",Mid-Market,Logistics,Midwest,85168.91,2024-02-11
+ACC-01324,Johns Ltd,SMB,Data Infrastructure,South,21220.25,2024-01-17
+ACC-01325,"Nicholson, Valentine and Robinson",Enterprise,HealthTech,West,92239.44,2024-04-01
+ACC-01326,"Haney, Dillon and Jackson",Mid-Market,Data Infrastructure,Northeast,52054.45,2026-04-06
+ACC-01327,Burke-Norton,Mid-Market,Logistics,Midwest,38400.41,2025-10-17
+ACC-01328,Hanson PLC,SMB,Logistics,South,12067.31,2024-06-27
+ACC-01329,Jackson-Jennings,Mid-Market,FinTech,EMEA,36700.03,2025-05-26
+ACC-01330,Carlson-Jones,Mid-Market,HealthTech,Northeast,47610.48,2024-01-05
+ACC-01331,Cruz-Rodriguez,Mid-Market,HR Tech,West,89129.23,2024-04-07
+ACC-01332,Mills PLC,Mid-Market,InsurTech,EMEA,39252.95,2026-02-27
+ACC-01333,"Barnes, Hernandez and Davis",Mid-Market,HR Tech,Northeast,28449.49,2024-04-25
+ACC-01334,Valenzuela-Greene,Mid-Market,Logistics,South,36461.05,2025-11-17
+ACC-01335,"Gordon, Wilson and Olson",Enterprise,FinTech,Northeast,178370.0,2025-03-21
+ACC-01336,Winters PLC,SMB,Data Infrastructure,South,8736.4,2026-01-28
+ACC-01337,Prince Ltd,SMB,InsurTech,Midwest,10686.78,2024-01-30
+ACC-01338,"Reynolds, Fisher and Golden",SMB,HealthTech,West,23216.35,2026-01-08
+ACC-01339,"Moreno, Perez and Lang",SMB,Data Infrastructure,Northeast,15124.13,2026-02-04
+ACC-01340,Bell-Ballard,Mid-Market,E-commerce,Midwest,75633.39,2024-11-29
+ACC-01341,"Johnston, Coleman and Scott",SMB,HR Tech,South,22788.07,2025-01-19
+ACC-01342,Kent Inc,Enterprise,HealthTech,South,271378.6,2024-02-25
+ACC-01343,George-Stephens,Enterprise,Cybersecurity,Midwest,377645.01,2025-04-10
+ACC-01344,Lopez-Fletcher,SMB,E-commerce,Midwest,15781.58,2024-07-17
+ACC-01345,Lane Inc,Mid-Market,Legal Tech,Midwest,46832.94,2024-02-02
+ACC-01346,"Smith, Pena and Watts",Mid-Market,FinTech,Northeast,33872.6,2026-05-22
+ACC-01347,Ortiz-Rodriguez,SMB,EdTech,Midwest,20925.77,2024-08-13
+ACC-01348,Pearson-King,Enterprise,Data Infrastructure,Midwest,334759.56,2025-10-15
+ACC-01349,"Henderson, Diaz and Hill",Enterprise,Cybersecurity,EMEA,390742.11,2026-05-25
+ACC-01350,"Sanders, Harris and Arnold",SMB,EdTech,EMEA,16316.63,2024-08-09
+ACC-01351,"Olson, Wood and Peters",Mid-Market,Logistics,Northeast,25942.75,2025-03-14
+ACC-01352,Hinton-Lane,Mid-Market,HR Tech,Midwest,46274.24,2025-08-16
+ACC-01353,"Sanders, Taylor and Shields",SMB,Data Infrastructure,Midwest,23533.83,2024-01-06
+ACC-01354,Adkins Group,SMB,FinTech,West,24851.65,2026-01-21
+ACC-01355,"Avery, Garcia and Romero",Mid-Market,FinTech,South,59522.91,2025-05-05
+ACC-01356,Owen-Mendez,Mid-Market,HealthTech,South,57193.53,2024-03-26
+ACC-01357,"Mann, Martin and Oconnell",Mid-Market,FinTech,South,86745.7,2024-05-15
+ACC-01358,Brock and Sons,SMB,HR Tech,West,8270.81,2025-11-16
+ACC-01359,Frost-Graham,SMB,Logistics,EMEA,20703.87,2024-01-25
+ACC-01360,Baker LLC,Enterprise,Logistics,Midwest,361001.7,2025-02-19
+ACC-01361,Lynch Ltd,SMB,E-commerce,South,19966.34,2024-01-02
+ACC-01362,Arias-Morales,Mid-Market,HealthTech,South,83073.24,2024-12-06
+ACC-01363,"Meyer, Dawson and Harper",SMB,Legal Tech,South,20799.1,2025-12-15
+ACC-01364,Bowman Group,Enterprise,InsurTech,EMEA,336288.41,2026-03-17
+ACC-01365,Harris Ltd,Mid-Market,Data Infrastructure,Northeast,72824.45,2024-02-26
+ACC-01366,"Mitchell, Johnson and Greene",SMB,E-commerce,West,9886.43,2025-01-09
+ACC-01367,"Hale, Gilbert and Craig",SMB,FinTech,Northeast,14229.36,2025-10-25
+ACC-01368,Allen-Smith,Mid-Market,HealthTech,EMEA,71106.91,2024-07-28
+ACC-01369,Miller LLC,SMB,E-commerce,Midwest,17173.78,2025-10-26
+ACC-01370,Gomez-Foster,SMB,Data Infrastructure,Midwest,20803.95,2026-02-18
+ACC-01371,"Gonzalez, Smith and Padilla",SMB,E-commerce,Northeast,16560.62,2025-03-09
+ACC-01372,Dunn Ltd,SMB,HealthTech,Northeast,13868.85,2025-05-12
+ACC-01373,"Herman, Bailey and Richmond",SMB,HealthTech,South,20067.03,2025-11-25
+ACC-01374,Perez-Mccarty,Mid-Market,Legal Tech,South,65361.83,2026-03-30
+ACC-01375,Spears-Andrews,Mid-Market,HealthTech,Midwest,82973.71,2025-04-13
+ACC-01376,Thompson-Hunter,SMB,EdTech,Midwest,12902.34,2024-03-19
+ACC-01377,"Jones, Phillips and Arroyo",SMB,Legal Tech,West,19850.4,2025-05-23
+ACC-01378,"Frye, Walter and Li",SMB,HR Tech,EMEA,24185.78,2024-01-24
+ACC-01379,"Wright, Ramos and Bennett",SMB,InsurTech,Midwest,16056.38,2025-03-06
+ACC-01380,Carrillo-Todd,SMB,FinTech,Northeast,11214.03,2024-01-23
+ACC-01381,Maldonado-Mosley,Enterprise,HR Tech,EMEA,289848.33,2025-02-25
+ACC-01382,Olson LLC,Mid-Market,E-commerce,South,63568.22,2025-12-14
+ACC-01383,Reyes and Sons,SMB,InsurTech,South,15786.12,2025-08-03
+ACC-01384,"Haynes, Mcbride and Gutierrez",SMB,Legal Tech,Midwest,21417.55,2024-08-20
+ACC-01385,Black-Smith,SMB,Legal Tech,West,10521.75,2024-10-18
+ACC-01386,Wright-Davis,SMB,Cybersecurity,EMEA,23710.24,2025-12-29
+ACC-01387,"Goodman, Peterson and Spencer",SMB,Cybersecurity,Midwest,22268.64,2025-12-10
+ACC-01388,Woods LLC,Enterprise,Cybersecurity,Midwest,163750.65,2024-02-12
+ACC-01389,Shannon LLC,Enterprise,Data Infrastructure,Midwest,226675.48,2025-01-13
+ACC-01390,Valentine Ltd,SMB,InsurTech,West,19314.41,2024-12-18
+ACC-01391,Porter and Sons,SMB,Logistics,EMEA,24582.92,2025-06-30
+ACC-01392,Moss LLC,SMB,FinTech,South,23828.17,2026-02-25
+ACC-01393,Perez and Sons,SMB,Logistics,Northeast,10652.91,2026-01-26
+ACC-01394,"Kelly, Maxwell and Wilson",SMB,InsurTech,Northeast,19003.15,2024-10-29
+ACC-01395,Lowe Ltd,SMB,Legal Tech,EMEA,19337.09,2026-03-29
+ACC-01396,Austin-Duran,Mid-Market,Logistics,Northeast,69794.55,2026-01-19
+ACC-01397,"Rubio, Charles and Watson",SMB,FinTech,Midwest,19526.14,2024-04-29
+ACC-01398,Vasquez-Galloway,SMB,EdTech,EMEA,22294.91,2025-04-01
+ACC-01399,"Melton, Henry and Joyce",SMB,E-commerce,West,18338.57,2024-07-18
+ACC-01400,"Ramirez, Walker and Ray",Mid-Market,HR Tech,Northeast,37721.52,2024-03-26
+ACC-01401,Fox Group,SMB,Logistics,West,24589.27,2025-02-07
+ACC-01402,Ayers-Johnson,SMB,E-commerce,EMEA,18286.32,2024-02-27
+ACC-01403,Long-Parks,Enterprise,E-commerce,South,135863.24,2026-05-24
+ACC-01404,Bryant Inc,SMB,EdTech,Northeast,8207.24,2024-12-19
+ACC-01405,"Holmes, Stewart and Smith",SMB,Logistics,EMEA,9489.18,2026-01-15
+ACC-01406,"Clark, Carpenter and Nguyen",Enterprise,EdTech,South,179476.55,2026-04-05
+ACC-01407,"Hensley, Lopez and Baker",Mid-Market,EdTech,South,34071.9,2025-08-24
+ACC-01408,Ruiz-Austin,Mid-Market,Cybersecurity,Midwest,44710.02,2025-06-21
+ACC-01409,White-Coleman,Enterprise,HealthTech,EMEA,324395.36,2024-03-31
+ACC-01410,Haynes-Watson,SMB,Legal Tech,South,10973.18,2025-04-18
+ACC-01411,Ramirez-White,Mid-Market,Cybersecurity,Midwest,37090.42,2025-01-25
+ACC-01412,Krause Ltd,SMB,Logistics,West,21987.59,2024-11-05
+ACC-01413,Olsen Ltd,Mid-Market,Legal Tech,South,61353.27,2025-04-19
+ACC-01414,Brock-Peters,SMB,FinTech,Midwest,12465.51,2025-10-17
+ACC-01415,Gonzalez-Marsh,Mid-Market,Logistics,West,67497.84,2024-10-21
+ACC-01416,"Hernandez, Shaffer and Thompson",SMB,Logistics,Midwest,8483.52,2026-02-22
+ACC-01417,Taylor-Barry,SMB,HealthTech,EMEA,20674.61,2025-08-18
+ACC-01418,"Holmes, Le and Floyd",SMB,EdTech,Northeast,18675.93,2025-05-02
+ACC-01419,King-Garrison,Enterprise,HealthTech,Northeast,248883.02,2025-08-12
+ACC-01420,Ross Ltd,SMB,Legal Tech,Midwest,17888.13,2024-05-29
+ACC-01421,Brown LLC,SMB,Cybersecurity,Northeast,10776.25,2024-10-06
+ACC-01422,Combs-Davis,SMB,E-commerce,West,12927.56,2025-06-26
+ACC-01423,"Cook, Ward and Castro",Mid-Market,HealthTech,EMEA,37597.96,2025-10-05
+ACC-01424,Cooper-Jenkins,SMB,HealthTech,EMEA,20794.68,2025-07-10
+ACC-01425,Dillon-Mccarty,SMB,E-commerce,Northeast,12614.8,2025-12-15
+ACC-01426,Ray Ltd,Mid-Market,HealthTech,EMEA,62703.03,2026-04-23
+ACC-01427,"Ryan, Krause and Mitchell",SMB,Cybersecurity,EMEA,12784.1,2026-03-08
+ACC-01428,Nunez-Freeman,SMB,E-commerce,Midwest,9741.1,2024-06-07
+ACC-01429,"Griffin, Miller and Austin",SMB,HR Tech,EMEA,18428.28,2026-05-01
+ACC-01430,Welch-Thomas,Enterprise,InsurTech,EMEA,307702.12,2026-04-01
+ACC-01431,Davidson LLC,SMB,Logistics,West,9981.62,2024-05-14
+ACC-01432,Welch-Duncan,Enterprise,Logistics,Northeast,186587.77,2025-01-06
+ACC-01433,Miller LLC,SMB,Logistics,EMEA,16893.06,2024-12-16
+ACC-01434,Edwards Ltd,SMB,Legal Tech,West,20655.82,2024-05-01
+ACC-01435,Page-Jacobs,SMB,Cybersecurity,Midwest,13226.28,2024-08-02
+ACC-01436,Nelson-Wallace,SMB,HealthTech,South,19743.91,2026-03-13
+ACC-01437,Adkins-Meyer,SMB,FinTech,South,20874.68,2024-02-13
+ACC-01438,Gutierrez-White,SMB,FinTech,EMEA,18083.99,2025-04-25
+ACC-01439,Martinez and Sons,SMB,Legal Tech,West,9126.21,2025-11-14
+ACC-01440,"King, Manning and Brady",SMB,HealthTech,West,23641.67,2024-07-29
+ACC-01441,Jackson Inc,Mid-Market,HR Tech,Midwest,68589.04,2024-01-30
+ACC-01442,Brown Group,SMB,Legal Tech,EMEA,13913.22,2024-06-13
+ACC-01443,"Brown, Wise and Warren",Mid-Market,Data Infrastructure,Midwest,57819.1,2024-03-10
+ACC-01444,Garcia PLC,SMB,Data Infrastructure,West,16990.26,2026-01-02
+ACC-01445,Miller Group,SMB,Legal Tech,Midwest,23328.22,2025-07-04
+ACC-01446,Perez-Rojas,SMB,HealthTech,Midwest,23648.11,2026-05-21
+ACC-01447,Sims-Anderson,Mid-Market,E-commerce,EMEA,37033.18,2025-11-20
+ACC-01448,Johnson Ltd,Enterprise,Cybersecurity,Northeast,394203.35,2025-03-10
+ACC-01449,Dalton-Nguyen,SMB,HR Tech,South,9918.37,2024-11-17
+ACC-01450,Mcdonald-Pitts,SMB,HealthTech,EMEA,10310.51,2026-02-19
+ACC-01451,Dunn-Taylor,SMB,Legal Tech,EMEA,20276.32,2024-03-25
+ACC-01452,"Ryan, Garza and Bryant",SMB,HealthTech,South,12821.39,2025-09-06
+ACC-01453,"Fields, Elliott and Mills",Mid-Market,Logistics,Midwest,61004.53,2024-10-24
+ACC-01454,"Ferguson, Stout and Olson",Enterprise,EdTech,Midwest,355599.86,2026-05-11
+ACC-01455,Ballard Group,Mid-Market,E-commerce,Midwest,25831.08,2025-11-21
+ACC-01456,Diaz-Green,SMB,HealthTech,South,15446.99,2025-11-05
+ACC-01457,Smith-Mills,Mid-Market,HealthTech,Midwest,50662.75,2025-12-12
+ACC-01458,Cooper Group,Mid-Market,HealthTech,Midwest,29206.18,2024-07-22
+ACC-01459,"Smith, Weeks and Arroyo",SMB,Data Infrastructure,South,10086.96,2026-05-08
+ACC-01460,Evans-Cannon,SMB,Logistics,Northeast,21001.89,2026-02-23
+ACC-01461,Harper-Robles,Mid-Market,Legal Tech,South,48146.32,2025-11-13
+ACC-01462,"Brooks, Jenkins and Castro",Mid-Market,EdTech,South,58241.94,2024-05-30
+ACC-01463,Wright-Espinoza,Mid-Market,HealthTech,West,41294.84,2025-05-24
+ACC-01464,"Price, Gray and Baker",SMB,Cybersecurity,West,9693.26,2024-02-24
+ACC-01465,Garrett-Black,Mid-Market,Logistics,West,88184.72,2025-01-26
+ACC-01466,"Aguirre, Cohen and Mitchell",Mid-Market,E-commerce,Midwest,44678.92,2025-09-30
+ACC-01467,"Patel, Adams and Lopez",SMB,HealthTech,EMEA,21048.73,2026-03-22
+ACC-01468,White LLC,SMB,Legal Tech,South,16334.26,2024-09-24
+ACC-01469,Walsh PLC,SMB,InsurTech,EMEA,8300.4,2026-02-21
+ACC-01470,Nelson-Dean,SMB,EdTech,West,14521.71,2024-11-18
+ACC-01471,Flores and Sons,Mid-Market,Logistics,South,27338.77,2024-06-30
+ACC-01472,Booker Inc,Mid-Market,Legal Tech,Midwest,56946.17,2024-05-17
+ACC-01473,Compton LLC,SMB,EdTech,South,20988.19,2025-08-05
+ACC-01474,Martinez-Gonzales,Mid-Market,InsurTech,EMEA,62193.67,2025-05-02
+ACC-01475,Hall and Sons,Mid-Market,Cybersecurity,EMEA,28622.91,2024-09-26
+ACC-01476,Snyder LLC,SMB,EdTech,EMEA,19500.29,2026-02-23
+ACC-01477,Collins-Lloyd,Enterprise,E-commerce,West,98725.57,2024-02-16
+ACC-01478,Ford-Moody,SMB,E-commerce,Northeast,21762.41,2025-08-20
+ACC-01479,Miller-Christensen,SMB,E-commerce,South,9654.95,2024-12-19
+ACC-01480,Brown Group,Enterprise,EdTech,Northeast,107499.27,2024-09-07
+ACC-01481,Daniels and Sons,SMB,Legal Tech,EMEA,9444.01,2025-12-05
+ACC-01482,Huang LLC,SMB,Legal Tech,West,13739.1,2024-01-21
+ACC-01483,Clayton-Martinez,SMB,FinTech,South,19182.05,2025-03-08
+ACC-01484,"Wright, Wise and Ramos",Mid-Market,EdTech,Northeast,26326.15,2025-04-25
+ACC-01485,"Vang, Gonzalez and Moss",Mid-Market,E-commerce,South,62072.98,2024-11-26
+ACC-01486,Boyd and Sons,Mid-Market,Logistics,West,69906.16,2024-07-29
+ACC-01487,Price-Ali,SMB,InsurTech,Northeast,10832.66,2024-11-02
+ACC-01488,Moore-Chandler,SMB,EdTech,Midwest,16448.18,2026-05-17
+ACC-01489,"Pineda, Meyer and King",Enterprise,HealthTech,EMEA,156364.83,2024-09-28
+ACC-01490,"Evans, Ward and Williams",SMB,Data Infrastructure,South,21678.25,2025-10-01
+ACC-01491,"Robinson, Rodriguez and Chen",Mid-Market,HealthTech,EMEA,31157.68,2024-12-10
+ACC-01492,Smith-Bauer,SMB,Data Infrastructure,EMEA,16079.56,2024-08-02
+ACC-01493,"Wilson, Mccormick and Smith",SMB,HealthTech,Northeast,16578.87,2024-11-03
+ACC-01494,Perkins Ltd,SMB,InsurTech,Northeast,11401.31,2025-02-15
+ACC-01495,Barker-Moore,SMB,InsurTech,South,19416.52,2025-07-14
+ACC-01496,Wright Group,SMB,FinTech,EMEA,22666.07,2025-08-13
+ACC-01497,Parks LLC,SMB,Logistics,Northeast,23931.77,2025-06-29
+ACC-01498,"Brown, Kelly and Moore",Mid-Market,EdTech,EMEA,72229.98,2024-03-02
+ACC-01499,"Moody, Martinez and Hall",SMB,E-commerce,South,10511.64,2024-06-03
+ACC-01500,"Kramer, Sherman and Trujillo",Mid-Market,Legal Tech,South,51666.92,2026-05-30
+ACC-01501,Quinn-Smith,Mid-Market,HealthTech,Midwest,79987.85,2024-09-30
+ACC-01502,Howard-Taylor,Mid-Market,Cybersecurity,Northeast,69645.57,2024-08-29
+ACC-01503,Washington Group,SMB,HealthTech,Midwest,11262.57,2024-09-08
+ACC-01504,"Phillips, Terry and Lopez",Mid-Market,Legal Tech,South,56549.85,2025-03-22
+ACC-01505,Stephens LLC,SMB,FinTech,Midwest,10709.09,2024-05-19
+ACC-01506,"Mcdonald, Dillon and George",SMB,Legal Tech,EMEA,10991.75,2026-05-22
+ACC-01507,"Martin, Schmidt and Cole",SMB,Logistics,West,8940.56,2024-03-26
+ACC-01508,Weaver-Gibson,SMB,Legal Tech,West,23309.77,2025-02-20
+ACC-01509,"Hunter, Gross and Andrade",Enterprise,HealthTech,South,382380.26,2026-01-11
+ACC-01510,"Vincent, Parsons and Allen",Mid-Market,HR Tech,West,62113.27,2025-05-27
+ACC-01511,"Brown, Coffey and Fuentes",Enterprise,InsurTech,EMEA,384399.1,2025-06-21
+ACC-01512,Warren Group,SMB,HealthTech,Midwest,18196.96,2026-03-02
+ACC-01513,"Moore, Campbell and Ortiz",Mid-Market,E-commerce,EMEA,72920.36,2026-04-05
+ACC-01514,Rodriguez-Mills,Mid-Market,HR Tech,South,39170.55,2024-04-19
+ACC-01515,Williams and Sons,SMB,Legal Tech,South,14942.38,2025-08-26
+ACC-01516,Russo and Sons,SMB,InsurTech,Northeast,19893.5,2024-04-25
+ACC-01517,Washington Inc,SMB,EdTech,South,19606.55,2024-10-11
+ACC-01518,Duncan Group,Enterprise,Cybersecurity,Northeast,237318.75,2025-01-11
+ACC-01519,"Burns, Hanson and Garza",Mid-Market,FinTech,EMEA,27262.61,2026-01-27
+ACC-01520,Diaz PLC,Mid-Market,FinTech,Midwest,41443.89,2025-01-28
+ACC-01521,"Jones, Conrad and Clark",SMB,E-commerce,West,17093.48,2024-08-30
+ACC-01522,Hebert-Collier,Mid-Market,EdTech,West,84136.29,2025-02-06
+ACC-01523,Owen-Brown,Enterprise,Legal Tech,Northeast,117977.6,2026-04-22
+ACC-01524,"Paul, Zamora and Short",Mid-Market,Legal Tech,Midwest,80862.09,2024-06-13
+ACC-01525,"Brown, Jensen and Rice",Enterprise,E-commerce,South,334688.39,2024-10-07
+ACC-01526,"Jones, Torres and Blackburn",Mid-Market,Logistics,South,72901.23,2026-05-11
+ACC-01527,"Davis, Hardy and Schmidt",SMB,EdTech,West,22014.81,2025-12-16
+ACC-01528,Lee Ltd,SMB,HealthTech,Northeast,15154.8,2026-01-16
+ACC-01529,Hudson and Sons,Mid-Market,E-commerce,South,70188.66,2026-02-19
+ACC-01530,"Curry, Perry and Garcia",SMB,Cybersecurity,South,21447.33,2024-05-19
+ACC-01531,"Ray, Craig and Park",SMB,HR Tech,Northeast,13333.27,2024-03-25
+ACC-01532,Andrade-Jackson,SMB,HR Tech,EMEA,20130.59,2026-02-25
+ACC-01533,Pierce PLC,Mid-Market,Cybersecurity,EMEA,69573.97,2026-03-22
+ACC-01534,Sandoval-Ferguson,Enterprise,Logistics,South,360786.81,2024-05-16
+ACC-01535,"Ramos, Gomez and Edwards",SMB,Data Infrastructure,Northeast,21591.99,2024-07-22
+ACC-01536,Kirk-Gutierrez,SMB,E-commerce,Midwest,14689.4,2025-01-21
+ACC-01537,"Jordan, Swanson and Franklin",Enterprise,Data Infrastructure,Midwest,96427.74,2024-01-24
+ACC-01538,"Gardner, Brooks and Pierce",Enterprise,Data Infrastructure,Midwest,371121.88,2025-04-18
+ACC-01539,"King, Nixon and West",SMB,Cybersecurity,West,14817.59,2025-03-15
+ACC-01540,Smith-Johnson,Mid-Market,Cybersecurity,West,87272.14,2024-06-23
+ACC-01541,Larson-Holmes,Enterprise,HealthTech,West,312760.86,2025-03-21
+ACC-01542,Smith-Joyce,Mid-Market,Logistics,South,32703.3,2025-12-31
+ACC-01543,Foley Inc,SMB,Legal Tech,Northeast,20689.53,2025-01-26
+ACC-01544,"Short, Ellison and Dixon",SMB,HR Tech,EMEA,11664.63,2026-04-23
+ACC-01545,"Howe, Moore and Johnson",SMB,HR Tech,South,11066.29,2026-03-22
+ACC-01546,Moore-Baker,SMB,Legal Tech,Northeast,12003.26,2025-04-06
+ACC-01547,"Wright, Scott and Evans",Enterprise,E-commerce,EMEA,302122.8,2025-04-14
+ACC-01548,"Ross, Hardin and Navarro",SMB,Logistics,Midwest,22814.54,2025-12-10
+ACC-01549,"Nguyen, Olson and Freeman",SMB,HR Tech,South,20043.7,2026-01-23
+ACC-01550,"Warner, Weiss and Davis",Mid-Market,HealthTech,West,61205.0,2024-02-23
+ACC-01551,"Evans, Cross and Johnston",SMB,HR Tech,South,23439.85,2025-09-12
+ACC-01552,Deleon LLC,Enterprise,Data Infrastructure,West,91661.91,2025-05-31
+ACC-01553,Hobbs-Hamilton,Mid-Market,Legal Tech,South,68632.03,2024-05-15
+ACC-01554,Kane and Sons,Enterprise,InsurTech,West,269950.94,2024-09-23
+ACC-01555,"Delgado, Guzman and Smith",SMB,Logistics,Northeast,22924.24,2024-05-15
+ACC-01556,"Reyes, Torres and Williams",SMB,InsurTech,South,10410.53,2024-04-29
+ACC-01557,"Cunningham, Murphy and Wolfe",SMB,Cybersecurity,South,22818.55,2026-05-04
+ACC-01558,Williams Ltd,SMB,E-commerce,South,12809.73,2024-09-26
+ACC-01559,Maddox-Mullins,Mid-Market,Legal Tech,EMEA,45345.67,2024-06-17
+ACC-01560,"Wagner, Walker and Roberts",SMB,Logistics,Midwest,17446.47,2025-11-04
+ACC-01561,Hernandez-Rogers,Mid-Market,Logistics,West,37279.8,2024-02-25
+ACC-01562,Duncan-Williams,SMB,FinTech,South,12423.81,2025-12-23
+ACC-01563,Baker-Ross,SMB,HealthTech,South,8693.46,2024-12-31
+ACC-01564,Ayala-Anderson,Enterprise,InsurTech,South,231905.51,2024-04-25
+ACC-01565,Castillo and Sons,Mid-Market,Cybersecurity,West,47724.28,2024-07-27
+ACC-01566,Foster-Duncan,Mid-Market,Cybersecurity,Midwest,73745.88,2026-04-22
+ACC-01567,"Gilbert, Fitzgerald and Sanchez",SMB,Data Infrastructure,Midwest,17920.31,2024-01-05
+ACC-01568,Adams Group,SMB,Data Infrastructure,Midwest,15079.12,2024-03-19
+ACC-01569,Cohen-Johnston,SMB,Logistics,West,23085.25,2024-01-27
+ACC-01570,Powers Group,SMB,HealthTech,South,14350.49,2024-04-18
+ACC-01571,Bailey-Flores,Mid-Market,Cybersecurity,West,30269.11,2026-04-30
+ACC-01572,"Rios, Carrillo and Jackson",Mid-Market,Logistics,South,65843.19,2024-10-02
+ACC-01573,Jensen-Branch,Mid-Market,FinTech,Northeast,88035.08,2025-11-02
+ACC-01574,Hanson-Alexander,Mid-Market,Logistics,Northeast,86582.2,2026-01-21
+ACC-01575,Gonzalez LLC,Enterprise,Data Infrastructure,Midwest,155523.73,2024-02-19
+ACC-01576,Todd Inc,Mid-Market,Legal Tech,Northeast,76879.55,2026-01-31
+ACC-01577,Singh and Sons,SMB,Data Infrastructure,South,9573.37,2024-09-18
+ACC-01578,"Mcintosh, Melton and Wilkins",SMB,EdTech,West,8348.7,2024-08-01
+ACC-01579,Cooper Inc,SMB,EdTech,Northeast,19001.86,2025-10-31
+ACC-01580,Cole-Johnson,SMB,Legal Tech,South,21618.71,2026-01-23
+ACC-01581,Singh and Sons,Mid-Market,Legal Tech,EMEA,33533.63,2025-11-12
+ACC-01582,Payne LLC,SMB,E-commerce,EMEA,11397.81,2025-04-01
+ACC-01583,"Webb, Blair and Thomas",Enterprise,Logistics,Northeast,264547.69,2025-03-09
+ACC-01584,"Barnett, Bennett and Escobar",SMB,EdTech,Northeast,18435.75,2025-03-20
+ACC-01585,"Williams, Jackson and Campbell",Mid-Market,HealthTech,West,58367.19,2025-04-19
+ACC-01586,"Williamson, Brown and Pena",Mid-Market,Cybersecurity,South,59273.12,2025-10-24
+ACC-01587,Jones Ltd,SMB,Legal Tech,South,15435.04,2026-03-31
+ACC-01588,Alvarado-Durham,SMB,Cybersecurity,Midwest,19633.34,2024-11-03
+ACC-01589,Lin-Smith,Mid-Market,InsurTech,South,44206.31,2024-02-18
+ACC-01590,"Hughes, Whitney and Romero",Mid-Market,FinTech,EMEA,31996.09,2025-03-11
+ACC-01591,"Garcia, Stewart and Delacruz",SMB,Logistics,EMEA,21818.02,2024-12-29
+ACC-01592,"Miller, Gonzalez and Rasmussen",SMB,HealthTech,EMEA,8276.57,2026-01-28
+ACC-01593,"House, Smith and Wright",Mid-Market,Cybersecurity,Midwest,79789.14,2024-02-16
+ACC-01594,"Torres, Burns and Garner",SMB,Legal Tech,Northeast,17982.54,2025-04-10
+ACC-01595,Reed LLC,Mid-Market,Logistics,EMEA,77509.21,2024-12-15
+ACC-01596,Garrett-Young,Enterprise,Cybersecurity,Midwest,147377.09,2026-02-03
+ACC-01597,"Hill, Brown and Scott",Enterprise,Legal Tech,West,224477.67,2024-01-19
+ACC-01598,Zamora-Briggs,SMB,HealthTech,West,10919.5,2025-05-03
+ACC-01599,Raymond LLC,SMB,EdTech,EMEA,20340.49,2024-11-06
+ACC-01600,Hernandez Group,Mid-Market,Data Infrastructure,Northeast,69893.05,2025-12-07
+ACC-01601,"Taylor, Blair and Meyer",Mid-Market,Legal Tech,West,33130.82,2024-01-15
+ACC-01602,"Salazar, Garrett and Perez",SMB,FinTech,Midwest,22603.2,2024-08-02
+ACC-01603,Berry Group,SMB,Cybersecurity,Midwest,15408.4,2025-10-03
+ACC-01604,Browning-Murphy,Mid-Market,InsurTech,Midwest,30596.08,2026-02-27
+ACC-01605,"Anderson, Delgado and Carpenter",SMB,Logistics,South,8370.89,2024-06-19
+ACC-01606,"Mcbride, Huffman and Parker",Enterprise,Logistics,South,236161.65,2026-05-30
+ACC-01607,"Roach, Browning and Jordan",SMB,HR Tech,Midwest,13012.13,2026-04-29
+ACC-01608,Douglas PLC,Mid-Market,FinTech,Northeast,25511.83,2025-10-07
+ACC-01609,Stewart PLC,Mid-Market,EdTech,South,80160.06,2026-01-24
+ACC-01610,"Fry, Wilson and Stewart",Mid-Market,InsurTech,Northeast,27406.12,2025-02-13
+ACC-01611,Acosta LLC,SMB,Data Infrastructure,EMEA,23899.78,2026-04-16
+ACC-01612,Ali-Turner,Mid-Market,HR Tech,West,59340.07,2025-03-08
+ACC-01613,"Peck, Shannon and Mahoney",Mid-Market,InsurTech,West,42410.18,2025-10-25
+ACC-01614,Hernandez-Lopez,SMB,Logistics,West,16411.41,2025-10-23
+ACC-01615,Lopez PLC,SMB,EdTech,West,10742.67,2026-01-13
+ACC-01616,"Adams, Bradley and Hall",SMB,E-commerce,South,11945.75,2024-08-12
+ACC-01617,Hall Inc,Mid-Market,E-commerce,EMEA,80474.5,2026-01-02
+ACC-01618,Miller-Chan,Mid-Market,Cybersecurity,Northeast,71994.68,2025-02-03
+ACC-01619,Shaw PLC,Enterprise,E-commerce,South,337924.07,2026-05-14
+ACC-01620,Joseph-Brooks,SMB,HR Tech,Northeast,19741.86,2024-03-29
+ACC-01621,Henry-Taylor,Mid-Market,Cybersecurity,Midwest,37966.47,2025-09-12
+ACC-01622,Perez Group,SMB,EdTech,South,13162.08,2024-08-02
+ACC-01623,Schaefer Group,Mid-Market,FinTech,Northeast,82258.9,2024-12-31
+ACC-01624,Newton and Sons,Mid-Market,Cybersecurity,EMEA,27078.05,2024-03-06
+ACC-01625,Jones Group,SMB,HealthTech,EMEA,11853.73,2025-07-29
+ACC-01626,"Burns, Nguyen and Ellis",SMB,Legal Tech,Northeast,21343.06,2026-02-26
+ACC-01627,Patterson Inc,SMB,InsurTech,Northeast,23237.4,2026-05-23
+ACC-01628,"Moss, James and Edwards",Mid-Market,InsurTech,EMEA,68516.58,2025-12-24
+ACC-01629,"Crosby, Armstrong and Herrera",SMB,Logistics,South,24365.0,2026-02-12
+ACC-01630,"Liu, Buchanan and Meyer",SMB,HealthTech,EMEA,18364.15,2026-05-28
+ACC-01631,Bryant-Rich,Enterprise,InsurTech,West,247264.78,2024-06-20
+ACC-01632,Stone Group,Mid-Market,HR Tech,Northeast,35207.12,2024-10-26
+ACC-01633,"Williams, Hughes and Hubbard",Mid-Market,InsurTech,South,72615.87,2024-04-11
+ACC-01634,Lee Group,SMB,E-commerce,Northeast,21925.73,2024-05-05
+ACC-01635,Wilkerson-Ayala,Mid-Market,Logistics,South,74999.25,2024-01-07
+ACC-01636,Murray-Henderson,SMB,Logistics,Northeast,12874.89,2024-06-24
+ACC-01637,"Ellison, Vaughn and Mckee",SMB,E-commerce,South,14130.94,2025-11-11
+ACC-01638,Gallegos-Hayes,SMB,InsurTech,South,21382.67,2024-05-21
+ACC-01639,"Mason, White and Richards",Mid-Market,EdTech,South,83374.24,2026-05-22
+ACC-01640,"Payne, Long and Morris",SMB,E-commerce,West,15523.84,2026-02-27
+ACC-01641,White PLC,SMB,InsurTech,West,9441.23,2024-11-18
+ACC-01642,"Huang, Khan and Davis",SMB,Cybersecurity,South,9044.96,2026-02-16
+ACC-01643,Holt-Meadows,SMB,Cybersecurity,EMEA,8982.77,2025-10-08
+ACC-01644,Higgins Inc,Enterprise,InsurTech,Northeast,219984.64,2025-11-28
+ACC-01645,Wilson Group,Mid-Market,Legal Tech,Northeast,84100.01,2024-01-09
+ACC-01646,"Cox, Mills and Cruz",Mid-Market,InsurTech,EMEA,84829.29,2025-12-18
+ACC-01647,"Salazar, Moore and Pierce",SMB,HR Tech,EMEA,18614.11,2025-09-25
+ACC-01648,Tate LLC,Mid-Market,E-commerce,South,75401.02,2024-11-04
+ACC-01649,"Savage, Huffman and Martin",SMB,InsurTech,Northeast,14629.89,2026-01-06
+ACC-01650,White Ltd,Mid-Market,Cybersecurity,EMEA,89475.06,2024-10-17
+ACC-01651,Barnes LLC,SMB,InsurTech,EMEA,13308.29,2024-12-14
+ACC-01652,"Mack, Griffin and Sims",Mid-Market,Cybersecurity,West,26812.93,2026-03-26
+ACC-01653,Roach and Sons,SMB,Legal Tech,Midwest,22147.89,2024-11-07
+ACC-01654,Dean LLC,Mid-Market,InsurTech,West,72579.1,2026-05-11
+ACC-01655,Ellis Group,SMB,InsurTech,Northeast,10104.82,2026-02-13
+ACC-01656,"Aguirre, Franklin and Snyder",Mid-Market,HealthTech,South,44367.47,2026-01-24
+ACC-01657,Chapman Group,SMB,E-commerce,Midwest,21691.59,2025-08-18
+ACC-01658,Ortiz-Miller,Mid-Market,InsurTech,EMEA,40199.46,2024-11-02
+ACC-01659,"Smith, Khan and Ramirez",SMB,Data Infrastructure,Midwest,20143.97,2025-06-16
+ACC-01660,"Grant, Bryan and Williams",Mid-Market,HealthTech,Northeast,58569.37,2024-07-16
+ACC-01661,Brown LLC,Mid-Market,E-commerce,South,31369.21,2025-12-29
+ACC-01662,Thomas Inc,SMB,EdTech,West,9568.23,2025-03-11
+ACC-01663,"Lane, Morrison and Rivera",Enterprise,Logistics,Midwest,228310.87,2025-01-13
+ACC-01664,Williams Group,Mid-Market,EdTech,EMEA,61332.95,2026-03-08
+ACC-01665,Martin LLC,SMB,Legal Tech,EMEA,16480.06,2025-03-09
+ACC-01666,"Guerrero, Graves and Armstrong",Enterprise,Logistics,South,345381.67,2024-05-27
+ACC-01667,"Thompson, Gibson and Riley",SMB,Logistics,South,10199.55,2025-12-22
+ACC-01668,Davis LLC,SMB,InsurTech,West,19806.0,2025-04-11
+ACC-01669,Richardson-Gray,SMB,Cybersecurity,EMEA,14278.65,2024-05-01
+ACC-01670,Chang PLC,Mid-Market,EdTech,West,32856.32,2025-08-08
+ACC-01671,Carter and Sons,SMB,InsurTech,Midwest,10001.62,2024-11-08
+ACC-01672,Neal LLC,Enterprise,Legal Tech,Northeast,240636.92,2026-03-21
+ACC-01673,Rose-Warren,SMB,Data Infrastructure,South,8827.07,2024-11-08
+ACC-01674,"Clark, Brown and Duncan",Enterprise,HR Tech,Midwest,343928.77,2025-05-15
+ACC-01675,"Rice, Miller and Ramsey",SMB,InsurTech,Northeast,9148.6,2024-02-15
+ACC-01676,"Peck, Andersen and Mitchell",SMB,Data Infrastructure,Northeast,17617.99,2024-12-11
+ACC-01677,"Abbott, Green and Andrews",Mid-Market,Logistics,EMEA,33632.62,2024-05-21
+ACC-01678,"Gomez, Anderson and Hart",SMB,Logistics,South,19342.75,2024-06-01
+ACC-01679,"Daniel, Jimenez and Morton",Mid-Market,E-commerce,West,76987.76,2025-11-11
+ACC-01680,"Hall, Roberts and Lee",Mid-Market,EdTech,Midwest,83515.89,2024-12-13
+ACC-01681,Johnson Ltd,SMB,Logistics,Northeast,18980.58,2024-06-18
+ACC-01682,Mclaughlin and Sons,Mid-Market,Data Infrastructure,Northeast,61467.88,2024-05-06
+ACC-01683,"Duarte, Gutierrez and Cook",Mid-Market,HealthTech,Midwest,87085.94,2025-07-08
+ACC-01684,"Shaffer, Lewis and Davidson",Mid-Market,FinTech,EMEA,58914.0,2026-02-07
+ACC-01685,"Campbell, Tyler and Parker",SMB,FinTech,West,19190.33,2025-06-28
+ACC-01686,"Pierce, Wang and Wilson",SMB,FinTech,Northeast,21374.87,2024-09-08
+ACC-01687,Peterson-Ramsey,Mid-Market,Data Infrastructure,South,30502.12,2025-06-30
+ACC-01688,"Choi, Collier and Lee",Mid-Market,EdTech,EMEA,27923.94,2024-01-24
+ACC-01689,Nielsen-Mendoza,SMB,Cybersecurity,South,8408.97,2025-06-24
+ACC-01690,Robles-Brewer,SMB,Legal Tech,West,9948.96,2024-04-11
+ACC-01691,Moore-Murray,SMB,Legal Tech,Midwest,11105.37,2026-02-25
+ACC-01692,"Huang, Ford and Olsen",SMB,Legal Tech,South,19536.35,2024-03-01
+ACC-01693,"Brown, Meyer and Cunningham",Mid-Market,E-commerce,Midwest,26766.13,2024-02-29
+ACC-01694,"Stewart, Herrera and Clark",SMB,HealthTech,Northeast,10421.83,2024-11-27
+ACC-01695,"Rivera, Hendricks and Flynn",SMB,HealthTech,West,11443.51,2026-02-09
+ACC-01696,Montes LLC,Mid-Market,HR Tech,South,58060.38,2025-05-31
+ACC-01697,Morgan Group,SMB,HealthTech,Northeast,9030.74,2025-04-20
+ACC-01698,"Ferguson, Martin and Obrien",Mid-Market,HealthTech,South,26878.92,2025-10-10
+ACC-01699,Larson LLC,SMB,FinTech,Northeast,17419.28,2025-08-23
+ACC-01700,"Hodge, Mckinney and Nelson",Mid-Market,HR Tech,EMEA,67350.81,2024-05-08
+ACC-01701,Crawford and Sons,SMB,EdTech,South,9426.44,2025-10-13
+ACC-01702,Hayes-Sampson,SMB,Cybersecurity,Northeast,17187.48,2024-06-21
+ACC-01703,Warren and Sons,Mid-Market,InsurTech,South,87487.89,2025-07-22
+ACC-01704,Brooks Inc,SMB,FinTech,South,24338.95,2025-09-27
+ACC-01705,Gentry Group,SMB,Cybersecurity,West,9022.98,2025-05-08
+ACC-01706,"Johnson, Webb and Porter",SMB,Legal Tech,South,24987.11,2026-05-12
+ACC-01707,Peterson Group,Mid-Market,Data Infrastructure,EMEA,43285.23,2024-06-14
+ACC-01708,"Russo, Collins and Murphy",Mid-Market,Data Infrastructure,West,44541.49,2025-02-08
+ACC-01709,Short PLC,Mid-Market,Cybersecurity,EMEA,89923.38,2025-03-18
+ACC-01710,"Haney, Harris and Johnson",SMB,InsurTech,Northeast,23026.84,2024-12-16
+ACC-01711,Reeves-Boyd,Mid-Market,Logistics,Northeast,40985.34,2024-11-25
+ACC-01712,Collins Inc,SMB,Logistics,EMEA,13583.77,2025-12-09
+ACC-01713,"Charles, Wiggins and Cook",SMB,FinTech,EMEA,16100.99,2024-01-10
+ACC-01714,Garcia Ltd,Mid-Market,EdTech,EMEA,83192.43,2025-12-21
+ACC-01715,"Edwards, Lane and Collins",SMB,EdTech,EMEA,9379.53,2025-10-26
+ACC-01716,Flores and Sons,Mid-Market,InsurTech,West,83017.19,2026-04-15
+ACC-01717,Hill-Flores,Mid-Market,HealthTech,Northeast,88182.54,2025-01-20
+ACC-01718,Lambert-Nelson,Mid-Market,E-commerce,South,36517.13,2026-02-25
+ACC-01719,Hill Inc,Mid-Market,FinTech,West,55075.01,2024-07-16
+ACC-01720,"Castro, Garcia and Daniels",SMB,HR Tech,West,20893.16,2025-11-27
+ACC-01721,"Flores, Thomas and Bush",Enterprise,E-commerce,Midwest,117889.62,2025-09-20
+ACC-01722,Andrews-Jackson,Mid-Market,HR Tech,Midwest,88707.74,2025-01-06
+ACC-01723,Austin-Morgan,SMB,Logistics,EMEA,11554.47,2024-07-19
+ACC-01724,Williams-Johnson,Enterprise,EdTech,West,359674.03,2025-08-05
+ACC-01725,"Williams, Reyes and Miller",SMB,Cybersecurity,EMEA,11294.09,2026-01-26
+ACC-01726,White-Carlson,Mid-Market,Data Infrastructure,EMEA,36409.37,2025-08-25
+ACC-01727,"Soto, Vaughn and Griffin",SMB,HealthTech,Midwest,12413.62,2025-08-06
+ACC-01728,Edwards-Roth,Mid-Market,InsurTech,Northeast,37470.35,2025-11-25
+ACC-01729,"Chang, Lamb and Miller",SMB,InsurTech,EMEA,12299.66,2025-07-27
+ACC-01730,Bradley-Davis,Enterprise,FinTech,South,288699.55,2025-10-27
+ACC-01731,"Mcdonald, Bryant and Cohen",SMB,E-commerce,South,22353.81,2025-02-20
+ACC-01732,"Miranda, Ruiz and Meza",SMB,InsurTech,South,16424.77,2025-06-13
+ACC-01733,Callahan PLC,Mid-Market,HR Tech,West,43065.65,2025-03-06
+ACC-01734,Durham-Myers,SMB,E-commerce,West,14661.6,2024-12-08
+ACC-01735,"Stark, Rivera and Valencia",SMB,Data Infrastructure,West,24834.5,2024-08-19
+ACC-01736,Chavez-Johnson,Enterprise,EdTech,West,374268.52,2024-07-20
+ACC-01737,Rodriguez-Mendoza,SMB,Legal Tech,West,18641.91,2024-04-09
+ACC-01738,Campbell LLC,SMB,EdTech,West,18073.02,2025-10-03
+ACC-01739,"Andrews, Romero and Sullivan",Enterprise,Legal Tech,Midwest,123430.6,2024-09-01
+ACC-01740,"Robles, Nguyen and Banks",Enterprise,FinTech,Northeast,251099.26,2024-08-30
+ACC-01741,Patel-Morales,Enterprise,Data Infrastructure,EMEA,225944.14,2024-04-07
+ACC-01742,Allen-Sanchez,Mid-Market,Data Infrastructure,West,30559.76,2024-03-03
+ACC-01743,Dickson Group,Enterprise,EdTech,Northeast,365925.96,2025-12-11
+ACC-01744,Peterson Ltd,SMB,Cybersecurity,West,23624.97,2025-03-28
+ACC-01745,"Reynolds, Baird and Bradley",SMB,Data Infrastructure,South,9118.43,2025-11-24
+ACC-01746,Stephens-Young,SMB,FinTech,Northeast,22448.8,2025-02-15
+ACC-01747,"Caldwell, Stevenson and Joseph",SMB,EdTech,Midwest,22697.91,2026-03-17
+ACC-01748,Wilson-Carlson,Mid-Market,FinTech,South,49954.8,2026-03-25
+ACC-01749,Peters-Short,SMB,Data Infrastructure,EMEA,9721.72,2025-10-28
+ACC-01750,Parker Group,Enterprise,FinTech,South,250336.0,2025-08-24
+ACC-01751,George Ltd,SMB,HealthTech,West,18117.98,2024-03-10
+ACC-01752,"Wise, Gray and Snyder",Mid-Market,HR Tech,EMEA,33188.81,2025-06-05
+ACC-01753,"Brown, Robinson and Taylor",SMB,EdTech,South,20318.59,2025-03-31
+ACC-01754,"Berger, Fields and Smith",SMB,Cybersecurity,West,9028.35,2024-11-15
+ACC-01755,Guerrero Group,Mid-Market,InsurTech,Northeast,45227.24,2025-07-08
+ACC-01756,"Carter, Gilbert and West",Mid-Market,Cybersecurity,South,45063.84,2024-12-17
+ACC-01757,Maldonado LLC,SMB,FinTech,EMEA,17969.48,2025-11-25
+ACC-01758,Hudson-Gentry,SMB,HR Tech,EMEA,21926.12,2025-07-26
+ACC-01759,Sellers-Zuniga,Mid-Market,EdTech,Northeast,37701.46,2024-07-24
+ACC-01760,"Haas, Cooper and Davis",Mid-Market,HR Tech,West,47200.88,2025-11-14
+ACC-01761,Carr PLC,SMB,Logistics,EMEA,19771.04,2026-05-22
+ACC-01762,Abbott-Phelps,Mid-Market,E-commerce,EMEA,44476.05,2024-12-02
+ACC-01763,Wood PLC,SMB,Logistics,West,16430.82,2024-01-04
+ACC-01764,Smith PLC,Mid-Market,HR Tech,South,65554.8,2024-09-01
+ACC-01765,Rodriguez-Campbell,SMB,E-commerce,South,11490.38,2024-07-07
+ACC-01766,Young Ltd,Mid-Market,FinTech,Northeast,25642.99,2025-01-01
+ACC-01767,"Long, Flores and Reyes",SMB,HealthTech,Midwest,12939.8,2024-07-18
+ACC-01768,Graham-Clark,Mid-Market,E-commerce,West,88395.1,2024-07-22
+ACC-01769,Wells and Sons,SMB,Cybersecurity,Midwest,23051.5,2026-01-06
+ACC-01770,"Cruz, Middleton and Larsen",SMB,InsurTech,Midwest,11035.2,2024-01-23
+ACC-01771,Roberts Ltd,SMB,Legal Tech,West,8356.89,2025-11-24
+ACC-01772,Taylor Inc,SMB,HealthTech,Northeast,23913.94,2024-11-08
+ACC-01773,"Smith, Griffith and Tucker",SMB,E-commerce,Northeast,19235.45,2025-06-23
+ACC-01774,Proctor-Taylor,Enterprise,Data Infrastructure,South,362300.23,2024-03-07
+ACC-01775,May Group,SMB,Cybersecurity,Midwest,11258.58,2025-01-22
+ACC-01776,English-Dominguez,Mid-Market,E-commerce,EMEA,52920.11,2025-10-13
+ACC-01777,Hanson-Gibson,SMB,FinTech,EMEA,17984.54,2026-05-24
+ACC-01778,Arnold-Cole,SMB,Cybersecurity,Northeast,12201.92,2025-10-06
+ACC-01779,Perez-Coleman,Mid-Market,Cybersecurity,EMEA,87944.98,2025-05-15
+ACC-01780,Lane Ltd,SMB,HealthTech,South,21446.95,2025-09-21
+ACC-01781,Joseph LLC,SMB,InsurTech,South,20772.24,2025-10-22
+ACC-01782,House-Johnston,Mid-Market,E-commerce,South,58728.0,2024-07-02
+ACC-01783,Good PLC,SMB,E-commerce,EMEA,19806.66,2026-01-02
+ACC-01784,Bush-Wilson,Enterprise,Logistics,Northeast,270167.87,2025-10-15
+ACC-01785,Nixon-Miller,Enterprise,Data Infrastructure,West,154231.88,2024-07-26
+ACC-01786,"Simon, Terrell and Terrell",SMB,HR Tech,South,11716.09,2025-03-11
+ACC-01787,Marshall-Miller,Enterprise,Data Infrastructure,Midwest,380004.66,2025-01-18
+ACC-01788,"Davis, Kennedy and Harmon",SMB,HealthTech,Midwest,20777.59,2024-10-29
+ACC-01789,"Miller, Schultz and Yates",SMB,E-commerce,Midwest,17927.36,2025-04-21
+ACC-01790,Austin-Berger,SMB,E-commerce,South,15669.57,2025-03-18
+ACC-01791,"Osborne, Harrison and Hunt",SMB,Logistics,Northeast,12641.33,2024-01-26
+ACC-01792,Berry-Rivera,SMB,HR Tech,Northeast,18971.03,2025-01-02
+ACC-01793,Yu-Yates,Enterprise,Legal Tech,EMEA,248965.21,2025-10-21
+ACC-01794,Jackson-Neal,SMB,Legal Tech,Midwest,9672.95,2024-03-14
+ACC-01795,"Curry, Acosta and Elliott",SMB,InsurTech,Midwest,13673.88,2025-11-22
+ACC-01796,Soto PLC,SMB,Legal Tech,Northeast,11240.92,2025-09-10
+ACC-01797,Berry Ltd,Enterprise,InsurTech,Northeast,92645.5,2024-11-02
+ACC-01798,Lamb-Weber,SMB,E-commerce,South,24078.86,2026-04-21
+ACC-01799,Washington-Martinez,Mid-Market,FinTech,South,67515.92,2026-02-18
+ACC-01800,York LLC,Enterprise,EdTech,Midwest,160347.15,2026-02-06
