@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: raw
+    database: GTM_DB
+    schema: RAW
+    tables:
+      - name: sales_reps
+      - name: accounts
+      - name: leads
+      - name: opportunities
+      - name: subscriptions
+      - name: revenue_events
+      - name: customer_health_scores
+      - name: retention_experiments
