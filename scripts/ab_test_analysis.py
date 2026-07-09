@@ -81,6 +81,27 @@ def run_two_proportion_ztest(churned_a, total_a, churned_b, total_b, label_a="co
         print("Result: NOT statistically significant at the 95% confidence level.")
 
 
+
+from statsmodels.stats.power import NormalIndPower
+from statsmodels.stats.proportion import proportion_effectsize
+
+
+def run_power_analysis(rate_control, rate_treatment, alpha=0.05, power=0.80):
+    effect_size = proportion_effectsize(rate_control, rate_treatment)
+
+    analysis = NormalIndPower()
+    required_n = analysis.solve_power(
+        effect_size=abs(effect_size),
+        alpha=alpha,
+        power=power,
+        ratio=1.0,
+    )
+
+    print(f"\nAssumed control rate: {rate_control:.2%}, treatment rate: {rate_treatment:.2%}")
+    print(f"Effect size (Cohen's h): {effect_size:.3f}")
+    print(f"Required sample size per group (80% power, alpha=0.05): {required_n:.0f}")
+
+
 if __name__ == "__main__":
     data = fetch_ab_test_data()
     print("Raw A/B test results from Snowflake:\n")
@@ -112,3 +133,16 @@ if __name__ == "__main__":
         churned_b=overall.loc["treatment", "CHURNED_COUNT"],
         total_b=overall.loc["treatment", "TOTAL_ACCOUNTS"],
     )
+    print("\n" + "=" * 60)
+    print("POWER ANALYSIS — was the high_risk sample big enough?")
+    print("=" * 60)
+
+    hr_control = data[(data["RISK_TIER_AT_ASSIGNMENT"] == "high_risk") & (data["VARIANT"] == "control")].iloc[0]
+    hr_treatment = data[(data["RISK_TIER_AT_ASSIGNMENT"] == "high_risk") & (data["VARIANT"] == "treatment")].iloc[0]
+
+    observed_control_rate = hr_control["CHURNED_COUNT"] / hr_control["TOTAL_ACCOUNTS"]
+    observed_treatment_rate = hr_treatment["CHURNED_COUNT"] / hr_treatment["TOTAL_ACCOUNTS"]
+
+    run_power_analysis(observed_control_rate, observed_treatment_rate)
+
+    print(f"\nActual sample sizes: control={hr_control['TOTAL_ACCOUNTS']}, treatment={hr_treatment['TOTAL_ACCOUNTS']}")
