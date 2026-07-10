@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="Screenshot 2026-07-09 at 8 43 37 PM" src="https://github.com/user-attachments/assets/31d1e22e-42e9-4f0c-8baf-400b34b33d21" /># ComplyFlow GTM Analytics Pipeline
+# ComplyFlow GTM Analytics Pipeline
 
 An end-to-end GTM (Go-To-Market) analytics project built on a synthetic B2B SaaS compliance automation company — designed to demonstrate hands-on RevOps/analytics engineering skills across the modern data stack: **Python → Snowflake → dbt → Looker Studio**.
 
